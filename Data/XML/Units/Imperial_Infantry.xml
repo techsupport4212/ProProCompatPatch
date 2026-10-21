@@ -10885,7 +10885,7 @@
 
 	<GroundVehicle Name="Imperial_74Z_Speeder_Bike">
 		<Variant_Of_Existing_Type>Template_74Z_Speeder_Bike</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Land_Model_Name>74-z_speeder_bike_scout.ALO</Land_Model_Name>
 		<Land_Terrain_Model_Mapping>
 			Temperate, 			74-z_speeder_bike_scout.ALO,
@@ -10905,7 +10905,7 @@
 
 	<GroundVehicle Name="Imperial_Army_74Z_Speeder_Bike">
 		<Variant_Of_Existing_Type>Template_74Z_Speeder_Bike</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Land_Model_Name>74-z_speeder_bike_imparmy.ALO</Land_Model_Name>
 		<Land_Terrain_Model_Mapping>
 			Temperate, 			74-z_speeder_bike_imparmy.ALO,
@@ -10950,7 +10950,7 @@
 		<Tactical_Health>35</Tactical_Health>
 
 		<AI_Combat_Power>22</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -11014,7 +11014,7 @@
 
 		<Damage>5</Damage>
 		<AI_Combat_Power>17</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -11172,7 +11172,7 @@
 		TEXT_TOOLTIP_SEPARATOR_CAPABILITIES_BLOCK
 		TEXT_TOOLTIP_CAPABILITY_INFANTRY_CAPTURE
 		</Encyclopedia_Text>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</GroundInfantry>
 
 	<GroundInfantry Name="Inquestor">
@@ -11191,7 +11191,7 @@
 		TEXT_TOOLTIP_SEPARATOR_CAPABILITIES_BLOCK
 		TEXT_TOOLTIP_CAPABILITY_INFANTRY_CAPTURE
 		</Encyclopedia_Text>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>I_BUTTON_INQUISITOR.tga</Icon_Name>
 		
 		<Land_Model_Name>Inquisitor.ALO</Land_Model_Name>
@@ -11238,7 +11238,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>100</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Infantry </CategoryMask>
@@ -11523,7 +11523,7 @@
 
 		<AI_Combat_Power>100</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<No_Colorization_Color>255, 255, 255, 255</No_Colorization_Color>
 

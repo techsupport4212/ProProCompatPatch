@@ -58,7 +58,7 @@
 		<AI_Combat_Power>5564</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 		<Override_Bounty_SP>270</Override_Bounty_SP>
 		<Maintenance_Cost>175</Maintenance_Cost>
@@ -258,7 +258,7 @@
 		<AI_Combat_Power>7992</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 		<Override_Bounty_SP>280</Override_Bounty_SP>
 		<Maintenance_Cost>185</Maintenance_Cost>
@@ -471,7 +471,7 @@
 		<AI_Combat_Power>13662</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 		<Override_Bounty_SP>500</Override_Bounty_SP>
 		<Maintenance_Cost>240</Maintenance_Cost>

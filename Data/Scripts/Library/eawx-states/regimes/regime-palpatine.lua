@@ -327,6 +327,7 @@ return {
 
         local legitimacy_winner = GlobalValue.Get("LEGITIMACY_WINNER")
         local proteus_initial_display_name = GlobalValue.Get("PROTEUS_INITIAL_DISPLAY_NAME")
+        local proteus_two_initial_display_name = GlobalValue.Get("PROTEUS_TWO_INITIAL_DISPLAY_NAME")
 
         if legitimacy_winner then
             if GlobalValue.Get("DARK_EMPIRE_EX_NIHILO") then
@@ -334,10 +335,15 @@ return {
                 if RegimeHostName == "IMPERIAL_PROTEUS" then
                     GlobalValue.Set("PROTEUS_CURRENT_DISPLAY_NAME","Dark Empire Remnants")
                 end
+                if RegimeHostName == "PROTEUS_TWO" then
+                    GlobalValue.Set("PROTEUS_TWO_CURRENT_DISPLAY_NAME","Dark Empire Remnants")
+                end
             elseif RegimeHostName == "EMPIRE" then
                 crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", "EMPIRE", "Ruling Council")
             elseif RegimeHostName == "IMPERIAL_PROTEUS" then
                 crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", "IMPERIAL_PROTEUS", proteus_initial_display_name)
+            elseif RegimeHostName == "PROTEUS_TWO" then
+                crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", "PROTEUS_TWO", proteus_two_initial_display_name)
             else
                 crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", RegimeHostName, p_regime_host.Get_Name())
             end

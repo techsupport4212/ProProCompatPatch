@@ -3312,7 +3312,7 @@
 
 		<Damage>5</Damage>
 		<AI_Combat_Power>24</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiInfantry</CategoryMask>
@@ -3756,7 +3756,7 @@
 		<AI_Combat_Power>21</AI_Combat_Power>
 
 		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium,
-	Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus</Affiliation>
+	Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask>Infantry | AntiInfantry</CategoryMask>
@@ -3854,7 +3854,7 @@
 		<Land_Model_Name>sd-6_hulk_infantry_droid.ALO</Land_Model_Name>
 		<Icon_Name>I_BUTTON_SD6.tga</Icon_Name>
 		<AI_Combat_Power>124.71</AI_Combat_Power>
-		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus </Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus, Proteus_Two </Affiliation>
 	</GroundInfantry>
 
 	<GroundCompany Name="SD_6_Hulk_Infantry_Droid_Company">
@@ -3964,7 +3964,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>21</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask> Vehicle | AntiInfantry</CategoryMask>
@@ -4460,7 +4460,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>47</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask> Vehicle | AntiVehicle</CategoryMask>
@@ -4728,7 +4728,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>204</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask> Vehicle | AntiInfantry | AntiVehicle </CategoryMask>
@@ -4939,7 +4939,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>152</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiVehicle </CategoryMask>
@@ -5144,7 +5144,7 @@
 		<Damage>15</Damage>
 		<AI_Combat_Power>37</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiInfantry </CategoryMask>
@@ -5341,7 +5341,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>39</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiInfantry | AntiVehicle </CategoryMask>
@@ -7646,7 +7646,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>70</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiVehicle </CategoryMask>
@@ -7925,7 +7925,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>70</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiVehicle </CategoryMask>
@@ -8636,7 +8636,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>66</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiAirSpeeder | AntiAirGunship </CategoryMask>
@@ -9012,7 +9012,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>106</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> AirGunship | AntiVehicle | AntiInfantry </CategoryMask>
@@ -9389,7 +9389,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>22</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> AirSpeeder | AntiInfantry</CategoryMask>
@@ -9585,7 +9585,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>51</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -9976,7 +9976,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, 
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, 
 		Rebel, Banking_Clan, Trade_Federation, Commerce_Guild, Techno_Union, Hutt_Cartels, Independent_Forces</Affiliation>
 
 		<Type>Hover</Type>
@@ -10193,7 +10193,7 @@
 		<Damage>50</Damage>
 		<AI_Combat_Power>477</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiInfantry | AntiVehicle </CategoryMask>
@@ -10410,7 +10410,7 @@
 		<Damage>15</Damage>
 		<AI_Combat_Power>119</AI_Combat_Power>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Tracked</Type>
@@ -11768,7 +11768,7 @@
 		<AI_Combat_Power>55</AI_Combat_Power>
 
 		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium,
-	Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus</Affiliation>
+	Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask> Vehicle | AntiInfantry</CategoryMask>
@@ -12345,7 +12345,7 @@
 		<Damage>4</Damage>
 		<AI_Combat_Power>70</AI_Combat_Power>
 
-		<Affiliation>Corporate_Sector, Rebel, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Rebel, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Tracked</Type>
 		<CategoryMask> Vehicle | AntiVehicle</CategoryMask>
@@ -12953,7 +12953,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>48</AI_Combat_Power>
 
-		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Commerce_Guild, Trade_Federation, Techno_Union, Banking_Clan</Affiliation>
+		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two, Commerce_Guild, Trade_Federation, Techno_Union, Banking_Clan</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask> Vehicle | AntiInfantry | AntiVehicle </CategoryMask>

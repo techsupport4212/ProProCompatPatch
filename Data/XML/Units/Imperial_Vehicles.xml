@@ -43,7 +43,7 @@
 		<Damage>9</Damage>
 		<AI_Combat_Power>19</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Tracked</Type>
 		<CategoryMask>Vehicle | AntiInfantry</CategoryMask>
@@ -218,7 +218,7 @@
 	<GroundVehicle Name="Imperial_AT_RT_Walker">
 		<Variant_Of_Existing_Type>AT_RT_Walker</Variant_Of_Existing_Type>
 		<Icon_Name>I_BUTTON_ATRT_IMP.tga</Icon_Name>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Land_Model_Name>at-rt_imparmy.ALO</Land_Model_Name>
 		<Land_Terrain_Model_Mapping>
@@ -269,7 +269,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>31</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -508,7 +508,7 @@
 		
 		<GUI_Bracket_Size>0</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -772,7 +772,7 @@
 		
 		<Tactical_Health>155</Tactical_Health>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints>
 			HP_ATST_Lasers,
@@ -933,7 +933,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>45</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -1162,7 +1162,7 @@
 
 		<AI_Combat_Power>44</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<LandBehavior>ABILITY_COUNTDOWN, AFFECTED_BY_SHIELD, HUNT, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, SHIELDED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, TELEKINESIS_TARGET, STUNNABLE, WIND_DISTURBANCE, SURFACE_FX, DAMAGE_TRACKING</LandBehavior>
 
@@ -1206,7 +1206,7 @@
 
 		<AI_Combat_Power>44</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<LandBehavior>ABILITY_COUNTDOWN, AFFECTED_BY_SHIELD, HUNT, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, SHIELDED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, TELEKINESIS_TARGET, STUNNABLE, WIND_DISTURBANCE, SURFACE_FX, DAMAGE_TRACKING</LandBehavior>
 
@@ -1295,7 +1295,7 @@
 		TEXT_TOOLTIP_CAPABILITY_CRUSH
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_atst_a.tga</Icon_Name>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 
 		<Tactical_Health>180</Tactical_Health>
 
@@ -1382,7 +1382,7 @@
 
 	<GroundVehicle Name="Imperial_Infantry_Support_Platform">
 		<Variant_Of_Existing_Type>Infantry_Support_Platform</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Land_Model_Name>EV_ISP_IMP.alo</Land_Model_Name>
 		<Land_Terrain_Model_Mapping>
@@ -1454,7 +1454,7 @@
 		<Damage>5</Damage>
 		<AI_Combat_Power>43</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -1666,7 +1666,7 @@
 		<Damage>5</Damage>
 		<AI_Combat_Power>51</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -1897,7 +1897,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>23</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -2132,7 +2132,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Tracked</Type>
@@ -2400,7 +2400,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>57</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -2611,7 +2611,7 @@
 		<Damage>4</Damage>
 		<AI_Combat_Power>57</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Tracked</Type>
@@ -2826,7 +2826,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>44</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3024,7 +3024,7 @@
 		<Damage>10</Damage>
 		<AI_Combat_Power>67</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3257,7 +3257,7 @@
 		<Damage>10</Damage>
 		<AI_Combat_Power>82</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3491,7 +3491,7 @@
 		<Damage>10</Damage>
 		<AI_Combat_Power>84</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3726,7 +3726,7 @@
 		<Damage>10</Damage>
 		<AI_Combat_Power>84</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3956,7 +3956,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>49</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -4151,7 +4151,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>56</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -4345,7 +4345,7 @@
 		<Damage>5</Damage>
 		<AI_Combat_Power>80</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -4579,7 +4579,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -4818,7 +4818,7 @@
 		<Damage>4</Damage>
 		<AI_Combat_Power>83</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Tracked</Type>
@@ -4974,7 +4974,7 @@
 
 	<GroundVehicle Name="Imperial_Treaded_Neutron_Torch">
 		<Variant_Of_Existing_Type>Treaded_Neutron_Torch</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</GroundVehicle>
 
 	<GroundVehicle Name="2M_Repulsor_Tank">
@@ -5020,7 +5020,7 @@
 		<Damage>13</Damage>
 		<AI_Combat_Power>84</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -5253,7 +5253,7 @@
 		<Damage>9</Damage>
 		<AI_Combat_Power>85</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask>Vehicle | AntiVehicle</CategoryMask>
@@ -5539,7 +5539,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -5725,7 +5725,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>43</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -5920,7 +5920,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>106</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -6162,7 +6162,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -6434,7 +6434,7 @@
 		<Damage>9</Damage>
 		<AI_Combat_Power>81</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Hover</Type>
 		<CategoryMask>Vehicle | AntiVehicle</CategoryMask>
@@ -6616,7 +6616,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>154</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -6845,7 +6845,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>106</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -7037,7 +7037,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>66</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -7228,7 +7228,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>111</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -7424,7 +7424,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>155</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -7670,7 +7670,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -7904,7 +7904,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>115</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -8050,7 +8050,7 @@
 				UC_Empire_Anti_Infantry_Turret_TRMB,
 				UC_Empire_Anti_Vehicle_Turret_TRMB,
 				UC_Empire_Anti_Aircraft_Turret_TRMB,
-			Imperial_Proteus, 
+			Imperial_Proteus, Proteus_Two, 
 				UC_Empire_Anti_Infantry_Turret_TRMB,
 				UC_Empire_Anti_Vehicle_Turret_TRMB,
 				UC_Empire_Anti_Aircraft_Turret_TRMB,
@@ -8077,7 +8077,7 @@
 				UC_Empire_Anti_Infantry_Turret_TRMB,
 				UC_Empire_Anti_Vehicle_Turret_TRMB,
 				UC_Empire_Anti_Aircraft_Turret_TRMB,
-			Imperial_Proteus, 
+			Imperial_Proteus, Proteus_Two, 
 				UC_Empire_Anti_Infantry_Turret_TRMB,
 				UC_Empire_Anti_Vehicle_Turret_TRMB,
 				UC_Empire_Anti_Aircraft_Turret_TRMB,
@@ -8151,7 +8151,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>107</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Type>Tracked</Type>
 		<CategoryMask> Vehicle | AntiVehicle</CategoryMask>
@@ -8350,7 +8350,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>208</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -8567,7 +8567,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>252</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -8988,7 +8988,7 @@
 		<Garrison_Enter_Dist>0</Garrison_Enter_Dist>
         <Garrison_Radius>30</Garrison_Radius>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Armor_Type> ArmourG_HeavyVehicle </Armor_Type>
 		<Tactical_Health>950</Tactical_Health>
@@ -9137,7 +9137,7 @@
 		<Damage>8</Damage>
 		<AI_Combat_Power>57</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -9317,7 +9317,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>66</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>
@@ -9551,7 +9551,7 @@
 		TEXT_TOOLTIP_CAPABILITY_SUPER_CRUSH
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_atat_tl.tga</Icon_Name>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints>
 				HP_ATAT_Refit_Main,
@@ -9678,7 +9678,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>213</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Tracked</Type>
@@ -9882,7 +9882,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>27</AI_Combat_Power>
 
-		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Yevetha, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Yevetha, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -10141,7 +10141,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>118</AI_Combat_Power>
 
-		<Affiliation>Rebel, Empire, Underworld, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, SsiRuuvi_Imperium, Yevetha, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Underworld, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, SsiRuuvi_Imperium, Yevetha, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Walk</Type>
@@ -10435,7 +10435,7 @@
 	<GroundVehicle Name="Imperial_VAAT">
 		<Variant_Of_Existing_Type>VAAT</Variant_Of_Existing_Type>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 	</GroundVehicle>
 
@@ -10443,7 +10443,7 @@
 		<Variant_Of_Existing_Type>Bantha_II_Skiff</Variant_Of_Existing_Type>
 		<Land_Model_Name>EV_Bantha2.alo</Land_Model_Name>
 		<Icon_Name>I_BUTTON_EMPIRE_BANTHA2_SKIFF.tga</Icon_Name>
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Vehicle_Thief_Inside_Clone>Imperial_Bantha_II_Skiff_Captured</Vehicle_Thief_Inside_Clone>
 	</GroundVehicle>
 
@@ -10493,7 +10493,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_laat_mod.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<LandBehavior> AMBIENT_SFX, IDLE, GARRISON_HOVER, WALK_LOCOMOTOR,REVEAL,HIDE_WHEN_FOGGED, WEAPON,POWERED, UNIT_AI,TARGETING,STUNNABLE, WIND_DISTURBANCE,DAMAGE_TRACKING, SURFACE_FX, ABILITY_COUNTDOWN, SELECTABLE</LandBehavior>
 
@@ -10558,7 +10558,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_laat_imperial.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<LandBehavior> AMBIENT_SFX, IDLE, GARRISON_HOVER, WALK_LOCOMOTOR,REVEAL,HIDE_WHEN_FOGGED, WEAPON,POWERED, UNIT_AI,TARGETING,STUNNABLE, WIND_DISTURBANCE,DAMAGE_TRACKING, SURFACE_FX, ABILITY_COUNTDOWN, SELECTABLE</LandBehavior>
 

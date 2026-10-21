@@ -26,6 +26,7 @@ return {
             "Eriadu_Authority",
             "Pentastar",
             "Imperial_Proteus"
+            "Proteus_Two"
         }
         for _, faction in pairs(imperial_table) do
             Find_Player(faction).Lock_Tech(Find_Object_Type("Dummy_Regicide_Jax"))

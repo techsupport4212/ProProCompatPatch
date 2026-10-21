@@ -131,6 +131,32 @@ return {
 				"TransGalMeg_HQ",
 				"Bulwark_I"
             }, false)
+
+			UnitUtil.SetLockList("PROTEUS_TWO", {
+                "Imperial_Army_Guard_Company"
+            })
+			
+			UnitUtil.SetLockList("PROTEUS_TWO", {
+				"TIE_Crawler_Company",
+				"Dragon_Heavy_Cruiser",
+				"Marauder_Cruiser",
+				"Customs_Corvette",
+				"Raider_I_Corvette",
+				"CR92A",
+				"Eidolon",
+				"Pursuit_Light_Cruiser",
+				"Persuader_Company",
+				"Imperial_AT_AP_Walker_Company",
+				"AT_MP_Company",
+				"Torpedo_Sphere",
+				"Venator_Star_Destroyer",
+				"Raptor_Trooper_Company",
+                "TaggeCo_HQ",
+				"CEC_HQ",
+				"TransGalMeg_HQ",
+				"Bulwark_I"
+            }, false)
+
         end
     end,
     on_update = function(self, state_context)

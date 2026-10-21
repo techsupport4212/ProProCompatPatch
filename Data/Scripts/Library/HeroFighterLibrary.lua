@@ -194,7 +194,7 @@ function Get_Hero_Entries(upgrade_object)
 			NoInit = true,
 			GroundReinforcementPerception = "Zann_In_Orbit",
 			GroundCompany = "TYBER_ZANN_TEAM",
-			Factions = {"Zsinj_Empire", "Empire", "Pentastar", "Greater_Maldrood", "Eriadu_Authority", "Imperial_Proteus"},
+			Factions = {"Zsinj_Empire", "Empire", "Pentastar", "Greater_Maldrood", "Eriadu_Authority", "Imperial_Proteus", "Proteus_Two"},
 			NoSpawnFlag = "DEPLOYED_TYBER_ZANN_DEAD",
 			DeathMessage = "Tyber Zann has been wounded and can no longer fight on land."
 		},
@@ -222,7 +222,7 @@ function Get_Hero_Entries(upgrade_object)
 		},
 		["JAG_127TH_LOCATION_SET"] = {
 			Hero_Squadron = "JAG_127TH_SQUADRON",
-			Factions = {"Zsinj_Empire", "Empire", "Pentastar", "Greater_Maldrood", "Eriadu_Authority", "Imperial_Proteus"},
+			Factions = {"Zsinj_Empire", "Empire", "Pentastar", "Greater_Maldrood", "Eriadu_Authority", "Imperial_Proteus", "Proteus_Two"},
 			PopupBody = "JAG_127TH_SELECTOR_BODY",
 			Options = {
 				{"SCREED", Locations = {"SCREED_DEMOLISHER"}, GroundPerception = "Screed_In_Orbit"},
@@ -871,7 +871,7 @@ function Get_Hero_Entries(upgrade_object)
 
 		["KILE_HANNAD_LOCATION_SET"] = {
 		 	Hero_Squadron = "PRAETORIAN_SQUADRON",
-			Factions = {"Imperial_Proteus"},
+			Factions = {"Imperial_Proteus", "Proteus_Two"},
 		 	PopupBody = "KILE_HANNAD_SELECTOR_BODY",
 			NoInit = true,
 		 	Options = {
@@ -905,7 +905,7 @@ function Get_Hero_Entries(upgrade_object)
 
 		["HSSISSK_LOCATION_SET"] = {
 			Hero_Squadron = "HSSISSK_SQUADRON",
-			Factions = {"Imperial_Proteus"},
+			Factions = {"Imperial_Proteus", "Proteus_Two"},
 			PopupBody = "HSSISSK_SELECTOR_BODY",
 			NoInit = true,
 			Options = {

@@ -81,8 +81,11 @@ return {
 			suffix = Double_Suffix(suffix)
 		end
 		
-		if owner == "IMPERIAL_PROTEUS" then
+		if owner == "IMPERIAL_PROTEUS" or owner == "PROTEUS_TWO" then
 			local proteus = GlobalValue.Get("PROTEUS_GROUP_NAME")
+			if owner == "PROTEUS_TWO" then
+				proteus = GlobalValue.Get("PROTEUS_TWO_GROUP_NAME")
+			end
 			if proteus == "TAGGE" then
 				fighter = "T_WING_SQUADRON"
 			elseif proteus == "TIERFON" then

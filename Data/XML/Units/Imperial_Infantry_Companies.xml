@@ -61,7 +61,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Imperial_Proteus, Warlords</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two, Warlords</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -399,7 +399,7 @@
 		<Land_Model_Anim_Override_Name>Trainedinfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_army_trooper.tga</Icon_Name>
 		<AI_Combat_Power>166.23</AI_Combat_Power>
-		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -455,7 +455,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1539,7 +1539,7 @@
 		<Land_Model_Anim_Override_Name>Trainedinfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_army_guard.tga</Icon_Name>
 		<AI_Combat_Power>151.69</AI_Combat_Power>
-		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -1593,7 +1593,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1833,7 +1833,7 @@
 		<Land_Model_Anim_Override_Name>Trainedinfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_pentastar_army_guard.tga</Icon_Name>
 		<AI_Combat_Power>151.69</AI_Combat_Power>
-		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -2139,7 +2139,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2276,7 +2276,7 @@
 		<Land_Model_Anim_Override_Name>MilitiaInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_Shadow_EVO_Trooper.tga</Icon_Name>
 		<AI_Combat_Power>93.89</AI_Combat_Power>
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -2335,7 +2335,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2480,7 +2480,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_compforce_assault.tga</Icon_Name>
 		<AI_Combat_Power>148.63</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -2533,7 +2533,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2840,7 +2840,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3140,7 +3140,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Zsinj_Empire</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two, Zsinj_Empire</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3342,7 +3342,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3746,7 +3746,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -4155,7 +4155,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Zsinj_Empire, Pentastar, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Pentastar, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -4424,7 +4424,7 @@
 		<Land_Model_Anim_Override_Name>MilitiaInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_DEFILER.tga</Icon_Name>
 		<AI_Combat_Power>116.94</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 
@@ -4488,7 +4488,7 @@
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 		<Required_Orbiting_Units>RZ52_Infantry_Shuttle_Urai</Required_Orbiting_Units>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -4652,7 +4652,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_storm_trooper.tga</Icon_Name>
 		<AI_Combat_Power>162.69</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -4708,7 +4708,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -5582,7 +5582,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_nova_storm_trooper.tga</Icon_Name>
 		<AI_Combat_Power>108.59</AI_Combat_Power>
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 	</GroundInfantry>
 
 	<GroundCompany Name="Nova_Stormtrooper_Company">
@@ -5736,7 +5736,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_INQUISITOR_STORMTROOPER.tga</Icon_Name>
 		<AI_Combat_Power>104.78</AI_Combat_Power>
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -5898,7 +5898,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_dark_storm_trooper.tga</Icon_Name>
 		<AI_Combat_Power>162.69</AI_Combat_Power>
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -6070,7 +6070,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_SHADOW_STORM_TROOPER.tga</Icon_Name>
 		<AI_Combat_Power>119.79</AI_Combat_Power>
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -6391,7 +6391,7 @@
 
 		<Build_Cost_Credits>425</Build_Cost_Credits>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		
 		<Max_Squad_Size> 1 </Max_Squad_Size>
@@ -6519,7 +6519,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_FIREBIRD_STORM_TROOPER.tga</Icon_Name>
 		<AI_Combat_Power>107.43</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -6584,7 +6584,7 @@
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 		<Required_Orbiting_Units>Imperial_Landing_Craft_Corvae</Required_Orbiting_Units>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -6931,7 +6931,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Eriadu_Authority, Pentastar, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Pentastar, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -7148,7 +7148,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -7635,7 +7635,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -7963,7 +7963,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_Shadow_ScoutTrooper_Sniper.tga</Icon_Name>
 		<AI_Combat_Power>120.71</AI_Combat_Power>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -8024,7 +8024,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -8373,7 +8373,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_raptor_trooper.tga</Icon_Name>
 		<AI_Combat_Power>162.48</AI_Combat_Power>
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -8430,7 +8430,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -8891,7 +8891,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_stormcommando.tga</Icon_Name>
 		<AI_Combat_Power>98.35</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -8953,7 +8953,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -9154,7 +9154,7 @@
 		<Required_Ground_Base_Level>2</Required_Ground_Base_Level>
 		<Required_Planets/>
 
-		<Affiliation>Empire, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -9329,7 +9329,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus, Zsinj_Empire, Empire</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two, Zsinj_Empire, Empire</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -9470,7 +9470,7 @@
 
 		<Icon_Name>i_button_dsd_empire.tga</Icon_Name>
 		<AI_Combat_Power>144.00</AI_Combat_Power>
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -9518,7 +9518,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -9949,7 +9949,7 @@
 		<Land_Model_Name>74-z_speeder_bike_scout.ALO</Land_Model_Name>
 		<Icon_Name>i_button_imperial_74z_speeder_bike.tga</Icon_Name>
 		<AI_Combat_Power>147.30</AI_Combat_Power>
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -9965,7 +9965,7 @@
 
 		<Required_Special_Structures> E_Ground_Barracks | I_Ground_Barracks | Aratech_HQ</Required_Special_Structures>
 
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
@@ -9983,7 +9983,7 @@
 		<Land_Model_Name>74-z_speeder_bike_imparmy.ALO</Land_Model_Name>
 		<Icon_Name>i_button_imperial_army_74z_speeder_bike.tga</Icon_Name>
 		<AI_Combat_Power>147.30</AI_Combat_Power>
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -9999,7 +9999,7 @@
 
 		<Required_Special_Structures> T_Ground_Barracks | I_Ground_Barracks | Aratech_HQ</Required_Special_Structures>
 
-		<Affiliation>Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
@@ -10118,7 +10118,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>ABILITY_COUNTDOWN, DUMMY_GROUND_COMPANY</Behavior>
@@ -10232,7 +10232,7 @@
 		<Land_Model_Anim_Override_Name>Jedi.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_DARK_JEDI.tga</Icon_Name>
 		<AI_Combat_Power>416.99</AI_Combat_Power>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</GroundInfantry>
 
 	<GroundCompany Name="Imperial_Dark_Jedi_Company">
@@ -10259,7 +10259,7 @@
 		
 		<Company_Units>Imperial_Dark_Jedi_Company_Dummy</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
@@ -10380,7 +10380,7 @@
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
 
 		<Company_Units>Chrysalide, Chrysalide</Company_Units>
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Required_Special_Structures> Dark_Empire_Cloning_Facility </Required_Special_Structures>
@@ -10400,7 +10400,7 @@
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_storm_trooper.tga</Icon_Name>
 		<AI_Combat_Power>173.80</AI_Combat_Power>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -10452,7 +10452,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>

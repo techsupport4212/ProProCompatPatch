@@ -103,6 +103,11 @@ return {
                 "Adz_Patrol_Destroyer"
             })
 
+			UnitUtil.SetLockList("PROTEUS_TWO", {
+				"Imperial_Army_Guard_Company",
+                "Adz_Patrol_Destroyer"
+            })
+
             UnitUtil.SetLockList("CORPORATE_SECTOR", {
                 "MTC_Combat",
                 "MTC_Support"
@@ -153,6 +158,29 @@ return {
 				"TransGalMeg_HQ",
 				"Bulwark_I"
             }, false)
+
+			UnitUtil.SetLockList("PROTEUS_TWO", {
+				"TIE_Crawler_Company",
+				"Dragon_Heavy_Cruiser",
+				"Marauder_Cruiser",
+				"Raider_I_Corvette",
+				"Customs_Corvette",
+				"Customs_Corvette",
+				"CR92A",
+				"Eidolon",
+				"Pursuit_Light_Cruiser",
+				"Persuader_Company",
+				"Imperial_AT_AP_Walker_Company",
+				"AT_MP_Company",
+				"Torpedo_Sphere",
+				"Venator_Star_Destroyer",
+				"Raptor_Trooper_Company",
+                "TaggeCo_HQ",
+				"CEC_HQ",
+				"TransGalMeg_HQ",
+				"Bulwark_I"
+            }, false)
+
         else
             UnitUtil.SetLockList("REBEL", {
                 "Jedi_Temple",
@@ -184,6 +212,10 @@ return {
                 "Adz_Patrol_Destroyer"
             })
 
+            UnitUtil.SetLockList("PROTEUS_TWO", {
+                "Adz_Patrol_Destroyer"
+            })
+
 			local proteus = GlobalValue.Get("PROTEUS_GROUP_NAME")
 			if proteus ~= nil then
 				if proteus == "RAYTER" or proteus == "ELROOD" or proteus == "ISECTOR" or proteus == "TAGGE" or proteus == "BAKURA" or proteus == "TAPANI" or proteus == "PRAKITH" or proteus == "CATO_NEIMOIDIA" or proteus == "ARDA" or proteus == "LAMBDA" then
@@ -199,6 +231,23 @@ return {
 					})
 				end
 			end
+
+			local proteus_two = GlobalValue.Get("PROTEUS_TWO_GROUP_NAME")
+			if proteus ~= nil then
+				if proteus == "RAYTER" or proteus == "ELROOD" or proteus == "ISECTOR" or proteus == "TAGGE" or proteus == "BAKURA" or proteus == "TAPANI" or proteus == "PRAKITH" or proteus == "CATO_NEIMOIDIA" or proteus == "ARDA" or proteus == "LAMBDA" then
+					UnitUtil.SetLockList("PROTEUS_TWO", {
+						"IPV4"
+					})
+					UnitUtil.SetLockList("PROTEUS_TWO", {
+						"IPV1"
+					}, false)
+				elseif proteus == "LUMIYA" then
+					UnitUtil.SetLockList("PROTEUS_TWO", {
+						"GORATH_RESEARCH_PROTEUS"
+					})
+				end
+			end
+
         end
 
     end,

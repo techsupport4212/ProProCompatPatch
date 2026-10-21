@@ -4,7 +4,7 @@
 	<SpaceUnit Name="CEC_Light_Cruiser">
 		<Variant_Of_Existing_Type>Template_CEC_Light_Cruiser</Variant_Of_Existing_Type>
 
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
         <Required_Ground_Base_Level>0</Required_Ground_Base_Level>
         <Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -32,7 +32,7 @@
 		<Variant_Of_Existing_Type>Template_Starbolt</Variant_Of_Existing_Type>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
         <Required_Ground_Base_Level>0</Required_Ground_Base_Level>
         <Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -113,7 +113,7 @@
 		<AI_Combat_Power>1360</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Override_Bounty_SP>40</Override_Bounty_SP>
 		<Maintenance_Cost>29</Maintenance_Cost>
 
@@ -352,7 +352,7 @@
 		<AI_Combat_Power>1058</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Override_Bounty_SP>35</Override_Bounty_SP>
 		<Maintenance_Cost>28</Maintenance_Cost>
 

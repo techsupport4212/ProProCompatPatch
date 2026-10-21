@@ -108,6 +108,11 @@ return {
                 "Adz_Patrol_Destroyer"
             })
 
+			UnitUtil.SetLockList("PROTEUS_TWO", {
+				"Imperial_Army_Guard_Company",
+                "Adz_Patrol_Destroyer"
+            })
+
             UnitUtil.SetLockList("CORPORATE_SECTOR", {
                 "MTC_Combat",
                 "MTC_Support"
@@ -138,6 +143,27 @@ return {
             }, false)
 			
 			UnitUtil.SetLockList("IMPERIAL_PROTEUS", {
+				"TIE_Crawler_Company",
+				"Dragon_Heavy_Cruiser",
+				"Marauder_Cruiser",
+				"Customs_Corvette",
+				"Raider_I_Corvette",
+				"CR92A",
+				"Eidolon",
+				"Pursuit_Light_Cruiser",
+				"Persuader_Company",
+				"Imperial_AT_AP_Walker_Company",
+				"AT_MP_Company",
+				"Torpedo_Sphere",
+				"Venator_Star_Destroyer",
+				"Raptor_Trooper_Company",
+                "TaggeCo_HQ",
+				"CEC_HQ",
+				"TransGalMeg_HQ",
+				"Bulwark_I"
+            }, false)
+
+			UnitUtil.SetLockList("PROTEUS_TWO", {
 				"TIE_Crawler_Company",
 				"Dragon_Heavy_Cruiser",
 				"Marauder_Cruiser",

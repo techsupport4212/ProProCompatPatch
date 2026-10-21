@@ -607,7 +607,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -889,7 +889,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Corellia, Imperial_Proteus</Affiliation>
+		<Affiliation>Corellia, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>

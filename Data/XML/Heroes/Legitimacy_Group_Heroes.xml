@@ -136,7 +136,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Syndicate_Head_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 
@@ -320,7 +320,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Syndicate_Head_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 
@@ -452,7 +452,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Syndicate_Head_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 
@@ -846,7 +846,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -872,7 +872,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -918,7 +918,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -996,7 +996,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Kollis_AT_TE</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1016,7 +1016,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1060,7 +1060,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -1124,7 +1124,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Nivers_AT_AT_Walker</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1149,7 +1149,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1251,7 +1251,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1282,7 +1282,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -1327,7 +1327,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Getelles</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1418,7 +1418,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1498,7 +1498,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -1516,7 +1516,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1543,7 +1543,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1588,7 +1588,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -1637,7 +1637,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units>VeNiste_TR_MB</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1666,7 +1666,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -1711,7 +1711,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Gal_Brello</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 
@@ -1726,7 +1726,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -1778,7 +1778,7 @@
 
 		<LandBehavior>SPAWN_SQUADRON, BARRAGE, ABILITY_COUNTDOWN,AFFECTED_BY_SHIELD,HUNT, WALK_LOCOMOTOR,TARGETING,IDLE,WEAPON,TURRET,POWERED,REVEAL,HIDE_WHEN_FOGGED,UNIT_AI,TELEKINESIS_TARGET,STUNNABLE,DAMAGE_TRACKING, SQUASH, GARRISON_UNIT</LandBehavior>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -1837,7 +1837,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Carner_ATST </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>3930</Tactical_Build_Cost_Multiplayer>
@@ -1875,7 +1875,7 @@
 
 		<LandBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, ABILITY_COUNTDOWN, AFFECTED_BY_SHIELD,SURFACE_FX, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE, WIND_DISTURBANCE,DAMAGE_TRACKING</LandBehavior>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -1938,7 +1938,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Zakar_Skiff </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>4615</Tactical_Build_Cost_Multiplayer>
@@ -1958,7 +1958,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -2014,7 +2014,7 @@
 
 		<Tactical_Health>200</Tactical_Health>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -2145,7 +2145,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Brezzic_Marr</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2192,7 +2192,7 @@
 
 		<LandBehavior>AFFECTED_BY_SHIELD, SPAWN_SQUADRON, WALK_LOCOMOTOR, TREAD_SCROLL, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, SQUASH, SURFACE_FX, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE,DAMAGE_TRACKING, GARRISON_VEHICLE, ABILITY_COUNTDOWN</LandBehavior>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -2263,7 +2263,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units> Arissa_Fawn </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>2905</Tactical_Build_Cost_Multiplayer>
@@ -2283,7 +2283,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -2332,7 +2332,7 @@
 
 		<LandBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN,AFFECTED_BY_SHIELD, HUNT, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE, WIND_DISTURBANCE, SURFACE_FX,DAMAGE_TRACKING</LandBehavior>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -2413,7 +2413,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units>Yrros_SA5</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2459,7 +2459,7 @@
 		<OverrideDeceleration> 1.0 </OverrideDeceleration>
 
 		<Scale_Factor>1.1</Scale_Factor>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>250.0</Targeting_Max_Attack_Distance>
 
@@ -2552,7 +2552,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Vedder</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2577,7 +2577,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -2633,7 +2633,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -2719,7 +2719,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Terro</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2759,7 +2759,7 @@
 
 		<Tactical_Health>135</Tactical_Health>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -2843,7 +2843,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Kosh</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2868,7 +2868,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -2934,7 +2934,7 @@
 		<OverrideAcceleration> 1.1 </OverrideAcceleration>
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<HardPoints>HP_Hero_FA3</HardPoints>
 		
@@ -3034,7 +3034,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>TX5532</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3088,7 +3088,7 @@
 		<OverrideAcceleration> 1.1 </OverrideAcceleration>
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>250.0</Targeting_Max_Attack_Distance>
 
@@ -3197,7 +3197,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Mak_Tennar</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3221,7 +3221,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER5.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -3254,7 +3254,7 @@
 		
 		<Ranking_In_Category>7</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<!-- Spymaster -->
 		<Galactic_Influence_Range>200.0</Galactic_Influence_Range>
@@ -3291,7 +3291,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Erron_Irbian</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<HeroUnit Name="TH313">
@@ -3333,7 +3333,7 @@
 
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<HardPoints>HP_Hero_Se14_Light_Pistol</HardPoints>
 		
@@ -3430,7 +3430,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>TH313</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3451,7 +3451,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -3478,7 +3478,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -3610,7 +3610,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -3664,7 +3664,7 @@
 
 		<Tactical_Health>220</Tactical_Health>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 		
@@ -3771,7 +3771,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Narell_Balrekk</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3812,7 +3812,7 @@
 		
 		<Ranking_In_Category>7</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Property_Flags>GoodInfantryCrusher | IsSupercrusher | GTSImmune </Property_Flags>
 
@@ -3880,7 +3880,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Vorrel_AT_AT_Walker</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3905,7 +3905,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -3932,7 +3932,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4026,7 +4026,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4053,7 +4053,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4137,7 +4137,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -4181,7 +4181,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Nile_Owen</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<!-- Goroth Prime -->
@@ -4195,7 +4195,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4300,7 +4300,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -4367,7 +4367,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Kloff_AT_AT_Walker</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -4392,7 +4392,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4514,7 +4514,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Cha_Raas</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 
@@ -4529,7 +4529,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4743,7 +4743,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Hauser_A9</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Vehicle_Canceled</SFXEvent_Build_Cancelled>
@@ -4768,7 +4768,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -4959,7 +4959,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5007,7 +5007,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SpaceBehavior> ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, SELECTABLE, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, DAMAGE_TRACKING, ASTEROID_FIELD_DAMAGE, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
 		<Lua_Script>GenericGameObject</Lua_Script>
@@ -5067,7 +5067,7 @@
 		<OverrideAcceleration> 1.3 </OverrideAcceleration>
 		<OverrideDeceleration> 1.3 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints>HP_Hero_E11_Sniper</HardPoints>
 		
@@ -5154,7 +5154,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Dyrra</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -5174,7 +5174,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5347,7 +5347,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -5458,7 +5458,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Jenn_Smeel</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -5483,7 +5483,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5601,7 +5601,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Property_Flags>GoodInfantryCrusher | IsSupercrusher | GTSImmune </Property_Flags>
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
@@ -5683,7 +5683,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Salvager_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>     
@@ -5716,7 +5716,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Lott_AT_AT_Walker</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -5741,7 +5741,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5889,7 +5889,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER4.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5921,7 +5921,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -5963,7 +5963,7 @@
 		
 		<Ranking_In_Category>5</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<LandBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SELECTABLE, AFFECTED_BY_SHIELD, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, SURFACE_FX, TELEKINESIS_TARGET, STUNNABLE, WIND_DISTURBANCE, DAMAGE_TRACKING</LandBehavior>
 		<Property_Flags>DoKite | GTSImmune </Property_Flags>
@@ -6043,7 +6043,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Johans_Firehawke </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->
 		<Tactical_Build_Cost_Multiplayer>7255</Tactical_Build_Cost_Multiplayer>
@@ -6080,7 +6080,7 @@
 		<LandBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SELECTABLE, AFFECTED_BY_SHIELD, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, SURFACE_FX, TELEKINESIS_TARGET, STUNNABLE, WIND_DISTURBANCE, DAMAGE_TRACKING</LandBehavior>
 		<Property_Flags>DoKite | GTSImmune </Property_Flags>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
         <Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -6157,7 +6157,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Arbmab_Firehawke </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<HeroUnit Name="Thalkuss"> <!-- Proteus only -->
@@ -6176,7 +6176,7 @@
 		
 		<Ranking_In_Category>7</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Admin_01 -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Admin_01_Reduce_Production_Price">
@@ -6221,7 +6221,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Thalkuss</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 
@@ -6236,7 +6236,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -6295,7 +6295,7 @@
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -6525,7 +6525,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Dark_Apprentice</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -6583,7 +6583,7 @@
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		<Max_Lift> 0.6 </Max_Lift>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -6710,7 +6710,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Cody</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -6821,7 +6821,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -6949,7 +6949,7 @@
 		<OverrideAcceleration> 1.1 </OverrideAcceleration>
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>250.0</Targeting_Max_Attack_Distance>
 
@@ -7046,7 +7046,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Exov</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -7087,7 +7087,7 @@
 
 		<Tactical_Health>175</Tactical_Health>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -7199,7 +7199,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Okto</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -7235,7 +7235,7 @@
 		<Land_Model_Anim_Override_Name>BountyHunter.alo</Land_Model_Anim_Override_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Ranking_In_Category>9</Ranking_In_Category>
 		
@@ -7320,7 +7320,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Roth</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -7345,7 +7345,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -7408,7 +7408,7 @@
 		<OverrideAcceleration> 1.5 </OverrideAcceleration>
 		<OverrideDeceleration> 1.5 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -7624,7 +7624,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Lumiya</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, EmpireoftheHand</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two, EmpireoftheHand</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -7833,7 +7833,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -8003,7 +8003,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -8111,7 +8111,7 @@
 
 		<LandBehavior>SPAWN_SQUADRON, BARRAGE, ABILITY_COUNTDOWN,AFFECTED_BY_SHIELD,HUNT, WALK_LOCOMOTOR,TARGETING,IDLE,WEAPON,TURRET,POWERED,REVEAL,HIDE_WHEN_FOGGED,UNIT_AI,TELEKINESIS_TARGET,STUNNABLE,DAMAGE_TRACKING, SQUASH, GARRISON_UNIT</LandBehavior>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -8191,7 +8191,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Xantus_ATST </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>3855</Tactical_Build_Cost_Multiplayer>
@@ -8216,7 +8216,7 @@
 		
 		<Ranking_In_Category>7</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Admin_01 -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Admin_01_Reduce_Production_Price">
@@ -8258,7 +8258,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Ellor_Orgraal</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -8280,7 +8280,7 @@
 		<CategoryMask> NonCombatHero </CategoryMask>
 		<Ranking_In_Category>9</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -8316,7 +8316,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Malau_Jocaos</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -8335,7 +8335,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -8382,7 +8382,7 @@
 		<OverrideAcceleration> 1.3 </OverrideAcceleration>
 		<OverrideDeceleration> 1.3 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -8526,7 +8526,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Chik_Apla</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -8553,7 +8553,7 @@
 		
 		<Ranking_In_Category>10</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -8589,7 +8589,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Anlys_Takkar</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -8612,7 +8612,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -8656,7 +8656,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Derran_Takkar</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<HeroUnit Name="Chala_Venan">
@@ -8690,7 +8690,7 @@
 		<OverrideAcceleration> 1.1 </OverrideAcceleration>
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -8788,7 +8788,7 @@
 		<OverrideAcceleration> 1.0 </OverrideAcceleration>
 		<OverrideDeceleration> 1.0 </OverrideDeceleration>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -8890,7 +8890,7 @@
 		<OverrideDeceleration> 1.0 </OverrideDeceleration>
 
 		<Scale_Factor>1.1</Scale_Factor>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -8981,7 +8981,7 @@
 		
 		<Population_Value>2</Population_Value>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Is_Homogeneous>No</Is_Homogeneous>
 
@@ -9008,7 +9008,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -9074,7 +9074,7 @@
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Tactical_Health>230</Tactical_Health>
 		
@@ -9294,7 +9294,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Antinnis_Tremayne</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -9352,7 +9352,7 @@
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 
 		<Scale_Factor>1.1</Scale_Factor>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -9478,7 +9478,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Bly</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -9517,7 +9517,7 @@
 		
 		<Ranking_In_Category>7</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Property_Flags> CanContainGarrison | GTSImmune </Property_Flags>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
@@ -9566,7 +9566,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Parnet_C10</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -9650,7 +9650,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -9793,7 +9793,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Property_Flags>GoodInfantryCrusher | CanContainGarrison | GTSImmune </Property_Flags>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
@@ -9866,7 +9866,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge_Admin</Company_Transport_Unit>
 		<Company_Units> Jedselk_PX4 </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Vehicle_Canceled</SFXEvent_Build_Cancelled>
@@ -10018,7 +10018,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units>Amara_Jedselk_A9</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Vehicle_Canceled</SFXEvent_Build_Cancelled>
@@ -10043,7 +10043,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -10098,7 +10098,7 @@
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Projectile_Fire_Recharge_Seconds>0.1</Projectile_Fire_Recharge_Seconds>
 		
@@ -10320,7 +10320,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Adalric_Brandl</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -10427,7 +10427,7 @@
 		<OverrideAcceleration> 1.3 </OverrideAcceleration>
 		<OverrideDeceleration> 1.3 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Tactical_Health>160</Tactical_Health>
 		
@@ -10650,7 +10650,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Fable_Astin</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -10670,7 +10670,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER3.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -11053,7 +11053,7 @@
 		<Build_Initially_Locked>no</Build_Initially_Locked>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Story_Category_Dummy</Required_Special_Structures>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Required_Orbiting_Units>Cronal_Singularity</Required_Orbiting_Units>
 		
@@ -11113,7 +11113,7 @@
 		<OverrideAcceleration> 1.3 </OverrideAcceleration>
 		<OverrideDeceleration> 1.3 </OverrideDeceleration>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<HardPoints>HP_Hero_E11_Carbine</HardPoints>
 
@@ -11239,7 +11239,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Klick</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -11266,7 +11266,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -11413,7 +11413,7 @@
 
 		<CategoryMask> VehicleHero | AntiVehicle </CategoryMask>
 		<Property_Flags>GoodInfantryCrusher | CanContainGarrison | GTSImmune </Property_Flags>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
@@ -11526,7 +11526,7 @@
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -11688,7 +11688,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Cass_Maston</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -11718,7 +11718,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -11765,7 +11765,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Ramier</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<!-- Elrood -->
@@ -11779,7 +11779,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -12067,7 +12067,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units>Afren_Hul_1M</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Vehicle_Canceled</SFXEvent_Build_Cancelled>
@@ -12091,7 +12091,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Moff -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -12134,7 +12134,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Vilis_Andal</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<!-- Storm Commandoes -->
@@ -12151,7 +12151,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -12205,7 +12205,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -12328,7 +12328,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Weir</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -12375,7 +12375,7 @@
 		<OverrideAcceleration> 1.1 </OverrideAcceleration>
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -12490,7 +12490,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Victor_Strang</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -12545,7 +12545,7 @@
 		
 		<Ranking_In_Category>9</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<LandBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, SHIELDED, STUNNABLE, POWERED, REVEAL, HIDE_WHEN_FOGGED, WIND_DISTURBANCE,DAMAGE_TRACKING, AMBIENT_SFX, SURFACE_FX, GARRISON_UNIT, IMPOSING_PRESENCE, AFFECTED_BY_SHIELD </LandBehavior>
 
@@ -12661,7 +12661,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Irlyn_Resk</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -12752,7 +12752,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -12882,7 +12882,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -12987,7 +12987,7 @@
 		<LandBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN,AFFECTED_BY_SHIELD, HUNT, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE, WIND_DISTURBANCE, SURFACE_FX,DAMAGE_TRACKING</LandBehavior>
 
 		<Starting_Spawned_Units_Tech_0>1H_Tank_Green, 2</Starting_Spawned_Units_Tech_0>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -13063,7 +13063,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft_Corvae</Company_Transport_Unit>
 		<Company_Units> Corvae_1H </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Rep_Secutor</SFXEvent_Fleet_Move>
 
@@ -13111,7 +13111,7 @@
 		<Starting_Spawned_Units_Tech_0>Chariot_LAV_Combat, 4</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>0</Spawned_Squadron_Delay_Seconds>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 
@@ -13239,7 +13239,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Jion_Chariot </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -13268,7 +13268,7 @@
 		
 		<Ranking_In_Category>4</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Admin_02 -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Admin_02_Reduce_Production_Price">
@@ -13309,7 +13309,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Bal_Jaset</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -13328,7 +13328,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -13500,7 +13500,7 @@
 		
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Property_Flags>CanContainGarrison | GarrisonCanFire | GTSImmune </Property_Flags>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
@@ -13554,7 +13554,7 @@
 		<Company_Transport_Unit>LAAT_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Vatoki_LAAT </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>5050</Tactical_Build_Cost_Multiplayer>
@@ -13574,7 +13574,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -13754,7 +13754,7 @@
 		<Company_Transport_Unit>Imperial_ATAT_Barge</Company_Transport_Unit>
 		<Company_Units> Serdif_Tount_Juggernaut </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>665</Tactical_Build_Cost_Multiplayer>
@@ -13776,7 +13776,7 @@
 		
 		<Ranking_In_Category>10</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -13812,7 +13812,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Rodin_Baem</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -13851,7 +13851,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 
@@ -13951,7 +13951,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Victor_Grieves</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -13976,7 +13976,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14110,7 +14110,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		<Property_Flags>GoodInfantryCrusher | CanContainGarrison | IsSupercrusher | GTSImmune </Property_Flags>
@@ -14191,7 +14191,7 @@
 		<Company_Units>Gann_Juggernaut_A6</Company_Units>
 		
 		<Population_Value>2</Population_Value>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -14238,7 +14238,7 @@
 		
 		<LandBehavior>SPAWN_SQUADRON, AFFECTED_BY_SHIELD, WALK_LOCOMOTOR, TREAD_SCROLL, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, SQUASH, SURFACE_FX, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE,DAMAGE_TRACKING, GARRISON_VEHICLE, ABILITY_COUNTDOWN</LandBehavior>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
@@ -14299,7 +14299,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft_Admin</Company_Transport_Unit>
 		<Company_Units> Foga_Brill_TNT </Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
 		<Tactical_Build_Cost_Multiplayer>2040</Tactical_Build_Cost_Multiplayer>
@@ -14319,7 +14319,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER2.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14442,7 +14442,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14527,7 +14527,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14611,7 +14611,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14696,7 +14696,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14801,7 +14801,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14903,7 +14903,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -14990,7 +14990,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -15076,7 +15076,7 @@
 
 		<Icon_Name>I_BUTTON_IMPERIAL_LEGITIMACY_TIER1.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>AI_Category_Dummy | Story_Category_Dummy</Required_Special_Structures>
@@ -15274,7 +15274,7 @@
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<AI_Combat_Power>252</AI_Combat_Power>
 		
@@ -15482,7 +15482,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Desann</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -15551,7 +15551,7 @@
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -15761,7 +15761,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Tavion_Axmis</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -15828,7 +15828,7 @@
 		
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -15979,7 +15979,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Alora</Company_Units>
 		
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -16034,7 +16034,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Targeting_Max_Attack_Distance>275.0</Targeting_Max_Attack_Distance>
 
@@ -16133,7 +16133,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Fenris_Sarhl</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -16176,7 +16176,7 @@
 		<OverrideDeceleration> 1.0 </OverrideDeceleration>
 		
 		<Scale_Factor>1.2</Scale_Factor><!-- 1.1 is a little too small -->
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints>HP_Hero_E11_Carbine</HardPoints>
 
@@ -16229,7 +16229,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 			
@@ -16308,7 +16308,7 @@
 		<Company_Units>Pekt</Company_Units>
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Pekt</SFXEvent_Fleet_Move>
 	</HeroCompany>
@@ -16329,7 +16329,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Admin_01 -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -16375,7 +16375,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Darcc</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<UniqueUnit Name="Krieg_Immobilizer">
@@ -16464,7 +16464,7 @@
 		<OverrideAcceleration> 1.35 </OverrideAcceleration>
 		<OverrideDeceleration> 1.35 </OverrideDeceleration>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Tactical_Health>205</Tactical_Health>
 		
@@ -16615,7 +16615,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Ennix_Devian</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -16800,6 +16800,6 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Zam_Basdor</Company_Units>
 		
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 </Legitimacy_Heroes>

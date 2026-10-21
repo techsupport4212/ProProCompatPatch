@@ -5,7 +5,7 @@
 
 	<SpaceUnit Name="Super_Transport_XI">
 		<Variant_Of_Existing_Type>Template_Super_Transport_XI</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -29,7 +29,7 @@
 	
 	<SpaceUnit Name="Super_Transport_XI_Missile">
 		<Variant_Of_Existing_Type>Template_Super_Transport_XI_Missile</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -97,7 +97,7 @@
 		<AI_Combat_Power>543</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Pentastar, Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Pentastar, Imperial_Proteus, Proteus_Two, Empire</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>20</Override_Bounty_SP>
 		<Maintenance_Cost>15</Maintenance_Cost>
@@ -316,7 +316,7 @@
 		<AI_Combat_Power>674</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>20</Override_Bounty_SP>
 		<Maintenance_Cost>15</Maintenance_Cost>
@@ -493,7 +493,7 @@
 		TEXT_TOOLTIP_CAPABILITY_BOARDABLE
 		</Encyclopedia_Text>
 
-		<Affiliation> Zsinj_Empire, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation> Zsinj_Empire, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -542,7 +542,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_DREADNAUGHT_1.tga</Icon_Name>
 
-		<Affiliation>Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 
@@ -564,7 +564,7 @@
 
 	<SpaceUnit Name="DHC_Carrier">
 		<Variant_Of_Existing_Type>Template_DHC_Carrier</Variant_Of_Existing_Type>
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>I_BUTTON_DREADNAUGHT_CARRIER.tga</Icon_Name>
 
 		<Tech_Level>0</Tech_Level>
@@ -591,7 +591,7 @@
 
 	<SpaceUnit Name="Rep_DHC">
 		<Variant_Of_Existing_Type>Template_Republic_DHC</Variant_Of_Existing_Type>
-		<Affiliation>Independent_Forces, Imperial_Proteus </Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two </Affiliation>
 		
 		<Required_Special_Structures>
 		Empire_Shipyard_Level_Two | Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
@@ -617,7 +617,7 @@
 
 	<SpaceUnit Name="Imperial_DHC">
 		<Variant_Of_Existing_Type>Template_Imperial_DHC</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Pentastar, Imperial_Proteus, Yevetha, EmpireoftheHand</Affiliation>
+		<Affiliation>Empire, Pentastar, Imperial_Proteus, Proteus_Two, Yevetha, EmpireoftheHand</Affiliation>
 
 		<No_Colorization_Color/>
 		<Starting_Spawned_Units_Tech_0>Howlrunner_Squadron_Half, 1</Starting_Spawned_Units_Tech_0>
@@ -727,7 +727,7 @@
 	
 	<SpaceUnit Name="DHC_Gunboat">
 		<Variant_Of_Existing_Type>Template_DHC_Gunboat</Variant_Of_Existing_Type>
-		<Affiliation>Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -747,7 +747,7 @@
 	
 	<SpaceUnit Name="Neutron_Star_Mercenary">
 		<Variant_Of_Existing_Type>Template_Neutron_Star_Mercenary</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -785,7 +785,7 @@
 
 		<Tactical_Health>1260</Tactical_Health>
 		
-		<Affiliation>Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 	
         <Required_Special_Structures>	
 		Imperial_Proteus_Shipyard_Level_Two | Imperial_Proteus_Shipyard_Level_Three | Imperial_Proteus_Shipyard_Level_Four,
@@ -1157,7 +1157,7 @@
 		<AI_Combat_Power>967</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>25</Override_Bounty_SP>
 		<Maintenance_Cost>21</Maintenance_Cost>
@@ -1347,7 +1347,7 @@
 
 	<SpaceUnit Name="Gladiator_I">
 		<Variant_Of_Existing_Type>Template_Gladiator</Variant_Of_Existing_Type>
-		<Affiliation>Eriadu_Authority, Corporate_Sector, Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Eriadu_Authority, Corporate_Sector, Imperial_Proteus, Proteus_Two, Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -1430,7 +1430,7 @@
 		<AI_Combat_Power>1040</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>21</Maintenance_Cost>
@@ -1848,7 +1848,7 @@
 		<AI_Combat_Power>827</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Yevetha, EmpireoftheHand, Imperial_Proteus, Zsinj_Empire</Affiliation>
+		<Affiliation>Yevetha, EmpireoftheHand, Imperial_Proteus, Proteus_Two, Zsinj_Empire</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>25</Override_Bounty_SP>
 		<Maintenance_Cost>19</Maintenance_Cost>
@@ -2286,7 +2286,7 @@
 		<AI_Combat_Power>609</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>23</Maintenance_Cost>
 
@@ -2723,7 +2723,7 @@
 		<AI_Combat_Power>972</AI_Combat_Power>
 		<Damage>20</Damage>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>25</Maintenance_Cost>
@@ -3187,7 +3187,7 @@
 		<AI_Combat_Power>811</AI_Combat_Power>
 		<Damage>20</Damage>
 
-		<Affiliation>Greater_Maldrood, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Greater_Maldrood, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>20</Override_Bounty_SP>
 		<Maintenance_Cost>17</Maintenance_Cost>
@@ -3392,7 +3392,7 @@
 		<AI_Combat_Power>1088</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>23</Maintenance_Cost>
@@ -3704,7 +3704,7 @@
 	<SpaceUnit Name="Acclamator_II">
 		<Variant_Of_Existing_Type>Template_Acclamator_II</Variant_Of_Existing_Type>
 
-		<Affiliation>Empire, Greater_Maldrood, Yevetha, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Yevetha, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -3788,7 +3788,7 @@
 		<AI_Combat_Power>1106</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Rebel, Imperial_Proteus, Zsinj_Empire</Affiliation>
+		<Affiliation>Rebel, Imperial_Proteus, Proteus_Two, Zsinj_Empire</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>23</Maintenance_Cost>
@@ -3952,7 +3952,7 @@
 
 	<SpaceUnit Name="Imperial_I_Frigate">
 		<Variant_Of_Existing_Type>Template_Imperial_I_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -4035,7 +4035,7 @@
 		<AI_Combat_Power>996</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Greater_Maldrood, Imperial_Proteus, Empire</Affiliation> <!-- ZC -->
+		<Affiliation>Greater_Maldrood, Imperial_Proteus, Proteus_Two, Empire</Affiliation> <!-- ZC -->
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>40</Override_Bounty_SP>
 		<Maintenance_Cost>29</Maintenance_Cost>
@@ -4249,7 +4249,7 @@
 		<AI_Combat_Power>893</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Rebel, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Override_Bounty_SP>35</Override_Bounty_SP>
 		<Maintenance_Cost>29</Maintenance_Cost>
 
@@ -4538,7 +4538,7 @@
 		<AI_Combat_Power>910</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>35</Override_Bounty_SP>
 		<Maintenance_Cost>28</Maintenance_Cost>
@@ -4780,7 +4780,7 @@
 		<AI_Combat_Power>612</AI_Combat_Power>
 		<Damage>15</Damage>
 
-		<Affiliation>Empire, Pentastar, Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Pentastar, Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>15</Override_Bounty_SP>
 		<Maintenance_Cost>13</Maintenance_Cost>
@@ -4980,7 +4980,7 @@
 		<Maintenance_Cost>15</Maintenance_Cost>
 		<Population_Value>7</Population_Value>
 		
-		<Affiliation>Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		
 		<Required_Special_Structures>
@@ -5059,7 +5059,7 @@
 		<AI_Combat_Power>676</AI_Combat_Power>
 		<Damage>15</Damage>
 
-		<Affiliation>Eriadu_Authority, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>20</Override_Bounty_SP>
 		<Maintenance_Cost>15</Maintenance_Cost>
@@ -5233,7 +5233,7 @@
 	<SpaceUnit Name="Captor">
 		<Variant_Of_Existing_Type>Template_Captor</Variant_Of_Existing_Type>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -5330,7 +5330,7 @@
 		<AI_Combat_Power>922</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>30</Override_Bounty_SP>
 		<Maintenance_Cost>23</Maintenance_Cost>
@@ -5539,7 +5539,7 @@
 	<SpaceUnit Name="Acclamator_I_Carrier">
 		<Variant_Of_Existing_Type>Template_Acclamator_I_Carrier</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus, Zsinj_Empire, Empire</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Zsinj_Empire, Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -5588,7 +5588,7 @@
 		<Icon_Name>I_BUTTON_SHADOW_IMPERATOR_CARRIER.tga</Icon_Name>
 		<Icon_Name>I_BUTTON_SHADOW_ACCLAMATOR_CRUISER.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -5647,7 +5647,7 @@
 		TEXT_TOOLTIP_CAPABILITY_BOMBING_RUN
 		TEXT_TOOLTIP_CAPABILITY_BOARDABLE
 		</Encyclopedia_Text>
-		<Affiliation>Pentastar, Imperial_Proteus Corporate_Sector</Affiliation>
+		<Affiliation>Pentastar, Imperial_Proteus, Corporate_Sector, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -5892,7 +5892,7 @@
 
 	<SpaceUnit Name="Victory_I_Star_Destroyer">
 		<Variant_Of_Existing_Type>Template_Victory_I_Star_Destroyer</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, Imperial_Proteus, EmpireoftheHand</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, Imperial_Proteus, Proteus_Two, EmpireoftheHand</Affiliation> <!-- ZC -->
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6026,7 +6026,7 @@
 		<AI_Combat_Power>1380</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>40</Override_Bounty_SP>
 		<Maintenance_Cost>29</Maintenance_Cost>
@@ -6190,7 +6190,7 @@
 	<SpaceUnit Name="Lucrehulk_Core_Destroyer">
 		<Variant_Of_Existing_Type>Template_Lucrehulk_Core_Destroyer</Variant_Of_Existing_Type>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6257,7 +6257,7 @@
 
 	<SpaceUnit Name="Victory_II_Star_Destroyer">
 		<Variant_Of_Existing_Type>Template_Victory_II_Star_Destroyer</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Zsinj_Empire, Corporate_Sector, Imperial_Proteus, Greater_Maldrood</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Zsinj_Empire, Corporate_Sector, Imperial_Proteus, Proteus_Two, Greater_Maldrood</Affiliation> <!-- ZC -->
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6318,7 +6318,7 @@
 		<Build_Cost_Credits>3400</Build_Cost_Credits>
 		<AI_Combat_Power>1217</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6380,7 +6380,7 @@
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Required_Special_Structures>
 		Empire_Shipyard_Level_Two | Empire_Shipyard_Level_Three | Empire_Shipyard_Level_Four |
@@ -6440,7 +6440,7 @@
 
 		<Targeting_Max_Attack_Distance>3500.0</Targeting_Max_Attack_Distance>
 
-		<Affiliation>Zsinj_Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Zsinj_Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6464,7 +6464,7 @@
 
 	<SpaceUnit Name="Super_Transport_XI_Modified">
 		<Variant_Of_Existing_Type>Template_Super_Transport_XI_Modified</Variant_Of_Existing_Type>
-		<Affiliation> Zsinj_Empire, Imperial_Proteus </Affiliation>
+		<Affiliation> Zsinj_Empire, Imperial_Proteus, Proteus_Two </Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6495,7 +6495,7 @@
 
 	<SpaceUnit Name="Super_Transport_XI_Modified_Pirate">
 		<Variant_Of_Existing_Type>Template_Super_Transport_XI_Modified</Variant_Of_Existing_Type>
-		<Affiliation> Imperial_Proteus </Affiliation>
+		<Affiliation> Imperial_Proteus, Proteus_Two </Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6527,7 +6527,7 @@
 	<SpaceUnit Name="Bulwark_I">
 		<Variant_Of_Existing_Type>Template_Bulwark_I</Variant_Of_Existing_Type>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -6824,7 +6824,7 @@
 		<AI_Combat_Power>1787</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Rebel, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>50</Override_Bounty_SP>
 		<Maintenance_Cost>40</Maintenance_Cost>
@@ -7052,7 +7052,7 @@
 
 		<Targeting_Max_Attack_Distance>2550.0</Targeting_Max_Attack_Distance>
 
-		<Affiliation>Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
@@ -7118,7 +7118,7 @@
 		<AI_Combat_Power>1934</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Empire, Pentastar, Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Empire, Pentastar, Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>55</Override_Bounty_SP>
 		<Maintenance_Cost>40</Maintenance_Cost>
@@ -7280,7 +7280,7 @@
 	<SpaceUnit Name="Kuari_Princess_Liner">
 		<Variant_Of_Existing_Type>Template_Kuari_Princess_Liner</Variant_Of_Existing_Type>
 
-		<Affiliation>Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
@@ -7298,7 +7298,7 @@
 	<SpaceUnit Name="Liberty_Liner">
 		<Variant_Of_Existing_Type>Template_Liberty_Liner</Variant_Of_Existing_Type>
 
-		<Affiliation>Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
@@ -7450,7 +7450,7 @@
 	<SpaceUnit Name="Venator_Star_Destroyer">
 		<Variant_Of_Existing_Type>Template_Venator_Star_Destroyer</Variant_Of_Existing_Type>
 
-		<Affiliation>Pentastar, Corporate_Sector, Imperial_Proteus, EmpireoftheHand</Affiliation>
+		<Affiliation>Pentastar, Corporate_Sector, Imperial_Proteus, Proteus_Two, EmpireoftheHand</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -7735,7 +7735,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_PROVIDENCE_CARRIER_DESTROYER.tga</Icon_Name>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 		<GUI_Row> 0 </GUI_Row>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -7796,7 +7796,7 @@
 	<SpaceUnit Name="Providence_Carrier_Destroyer_Pirate">
 		<Variant_Of_Existing_Type>Template_Providence_Carrier_Destroyer</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<GUI_Row> 0 </GUI_Row>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -7850,7 +7850,7 @@
 
 		<SpaceUnit Name="Super_Transport_XI_Missile_Pirate">
 		<Variant_Of_Existing_Type>Template_Super_Transport_XI_Missile</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -7867,7 +7867,7 @@
 		<SpaceUnit Name="Refit_Venator_Star_Destroyer_Proteus">
 		<Variant_Of_Existing_Type>Template_Refit_Venator_Star_Destroyer</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>

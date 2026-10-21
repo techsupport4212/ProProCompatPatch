@@ -218,7 +218,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slaver_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -477,7 +477,7 @@
 		<Build_Time_Seconds>4</Build_Time_Seconds>
 
 		<Text_ID>TEXT_TOOLTIP_COMMAND_MEGADOR</Text_ID>
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>I_BUTTON_HARRSK_SSD.tga</Icon_Name>
 
 		<Encyclopedia_Unit_Class>Ship Crews Cost: 7,020</Encyclopedia_Unit_Class>
@@ -523,7 +523,7 @@
 		<Build_Time_Seconds>4</Build_Time_Seconds>
 
 		<Text_ID>TEXT_TOOLTIP_COMMAND_MEGADOR</Text_ID>
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>I_BUTTON_HARRSK_SSD.tga</Icon_Name>
 
 		<Encyclopedia_Unit_Class>Ship Crews Cost: 7,020</Encyclopedia_Unit_Class>
@@ -634,7 +634,7 @@
 		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
 
 		<Text_ID>TEXT_TOOLTIP_COMMAND_DOMINION</Text_ID>
-		<Affiliation>Empire, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>i_button_desanne_SSD.tga</Icon_Name>
 
 		<Encyclopedia_Unit_Class>Ship Crews Cost: 4,100</Encyclopedia_Unit_Class>
@@ -863,7 +863,7 @@
 		<Icon_Name>i_button_demos.tga</Icon_Name>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Damage>50</Damage>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Ranking_In_Category> 1 </Ranking_In_Category>
 	
@@ -926,7 +926,7 @@
 		
 		<Ranking_In_Category>5</Ranking_In_Category>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -1140,7 +1140,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Merili</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1536,7 +1536,7 @@
 		<Is_Dummy>Yes</Is_Dummy>
 		<Is_Named_Hero>Yes</Is_Named_Hero>
 		<Damage>50</Damage>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started/>
 		<SFXEvent_Build_Cancelled/>
@@ -1580,7 +1580,7 @@
 		<Land_Model_Name>heavy_mercenary.ALO</Land_Model_Name>
 		<Land_Model_Anim_Override_Name>mercenaryInfantry.ALO</Land_Model_Anim_Override_Name>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Always_Spawn_In_Orbit>Yes</Always_Spawn_In_Orbit> <!-- Stealth heroes spawn in orbit -->
 		
@@ -1685,7 +1685,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>GURNST</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -1941,7 +1941,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Carnor_Jax_Proteus</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2120,7 +2120,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Domina_Tagge</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<HeroUnit Name="Dimone_Irrv">
@@ -2181,7 +2181,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Dimone_Irrv</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<HeroUnit Name="Yeorg_Captison">
@@ -2241,7 +2241,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Yeorg_Captison</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<HeroUnit Name="Ree_Shala">
@@ -2260,7 +2260,7 @@
 		
 		<Ranking_In_Category>8</Ranking_In_Category>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Abilities SubObjectList="Yes"> <!-- Admin_Tier_Admin_01 -->
 			<Reduce_Production_Price_Ability Name="Admin_Tier_Admin_01_Reduce_Production_Price">
@@ -2304,7 +2304,7 @@
 		<Company_Transport_Unit>G9_Rigger_Admin</Company_Transport_Unit>
 		<Company_Units>Ree_Shala</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<!-- ============================ Spy ============================= -->
@@ -2363,7 +2363,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Rbann</Company_Transport_Unit>
 		<Company_Units>Rbann</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -2422,7 +2422,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Zeven_Mallat</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<UniqueUnit Name="Shara_Or_AA70">
@@ -2539,7 +2539,7 @@
 		<Company_Transport_Unit>Gozanti_Landing_Craft</Company_Transport_Unit>
 		<Company_Units> Shara_Or_AA70 </Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 
 	<HeroUnit Name="Tyionsis_Cex">
@@ -2652,7 +2652,7 @@
 		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
 		<Company_Units>Tyionsis_Cex</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 	</HeroCompany>
 	
 	<UniqueUnit Name="Grunger_Mahler">
@@ -2739,7 +2739,7 @@
 		<Build_Time_Seconds>4</Build_Time_Seconds>
 
 		<Text_ID>TEXT_TOOLTIP_COMMAND_AGGRESSOR</Text_ID>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>I_BUTTON_GRUNGER_SSD.tga</Icon_Name>
 
 		<Encyclopedia_Unit_Class>Ship Crews Cost: 7,500</Encyclopedia_Unit_Class>
@@ -2926,7 +2926,7 @@
 
 		<Unique_Space_Unit>Kile_Hannad_Interceptor</Unique_Space_Unit>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Ranking_In_Category>8</Ranking_In_Category>
 
@@ -3001,7 +3001,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Kile_Hannad</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SFXEvent_Build_Started>UHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3053,7 +3053,7 @@
 		<OverrideAcceleration> 1.2 </OverrideAcceleration>
 		<OverrideDeceleration> 1.2 </OverrideDeceleration>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Tactical_Health>180</Tactical_Health>
 		
@@ -3272,7 +3272,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_DARK_JEDI </Encyclopedia_Unit_Class>
 		<Icon_Name>I_BUTTON_NAMMAN.TGA</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_STARSHIP, TRANSPORT </Behavior>
 
@@ -3394,7 +3394,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>Namman</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3453,7 +3453,7 @@
 
 		<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tactical_Health>190</Tactical_Health>
 		
@@ -3662,7 +3662,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>X1</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -3706,7 +3706,7 @@
 		<Energy_Refresh_Rate>300</Energy_Refresh_Rate>
 		<Collision_Box_Modifier>1.0</Collision_Box_Modifier>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<CategoryMask> Fighter | AntiFighter</CategoryMask>
 		<Space_FOW_Reveal_Range>500.0</Space_FOW_Reveal_Range>
 		<Targeting_Priority_Set>Fighter</Targeting_Priority_Set>
@@ -3816,7 +3816,7 @@
 		
 		<Land_Model_Name>phase_ii_dark_trooper.ALO</Land_Model_Name>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Ranking_In_Category>9</Ranking_In_Category>
 
@@ -3956,7 +3956,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
 		<Company_Units>GK121</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -4007,7 +4007,7 @@
 		<OverrideDeceleration> 1.1 </OverrideDeceleration>
 		<Mouse_Collide_Override_Sphere_Radius> 10.0 </Mouse_Collide_Override_Sphere_Radius>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints>HP_Hero_DLT_20A_LMG</HardPoints> -->
 		
@@ -4124,7 +4124,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Salvager_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 
@@ -4154,7 +4154,7 @@
 		<Icon_Name>I_BUTTON_HAL_RAZOR.TGA</Icon_Name>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Damage>80</Damage>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<GUI_Row> 1 </GUI_Row>
 		
 		
@@ -4264,7 +4264,7 @@
 		
 		<Ranking_In_Category>6</Ranking_In_Category>
 		
-		<Affiliation>Imperial_Proteus</Affiliation> -->
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation> -->
 
 		<!-- <Abilities SubObjectList="Yes"> --> <!-- Admin_Tier_Moff -->
 			<!-- <Reduce_Production_Price_Ability Name="Admin_Tier_Moff_Reduce_Production_Price">
@@ -4309,7 +4309,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Admin</Company_Transport_Unit>
 		<Company_Units>Rebus</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -4402,7 +4402,7 @@
 
 		<Lua_Script>GenericGameObject</Lua_Script>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>22000</Build_Cost_Credits>
 		<Build_Time_Seconds>4</Build_Time_Seconds>
@@ -4457,7 +4457,7 @@
 		<OverrideAcceleration> 1.5 </OverrideAcceleration>
 		<OverrideDeceleration> 1.5 </OverrideDeceleration>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<Tactical_Health>200</Tactical_Health>
 		
@@ -4676,7 +4676,7 @@
 		<Company_Transport_Unit>Shuttle_Tyderium_Thorn</Company_Transport_Unit>
 		<Company_Units>Thorn</Company_Units>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
@@ -4720,7 +4720,7 @@
 
 		<Lua_Script>GenericGameObject</Lua_Script>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>28000</Build_Cost_Credits>
 		<Build_Time_Seconds>4</Build_Time_Seconds>

@@ -64,7 +64,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, EmpireoftheHand, Imperial_Proteus, Hapes_Consortium</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, EmpireoftheHand, Imperial_Proteus, Hapes_Consortium, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -128,7 +128,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, Imperial_Proteus </Affiliation>
+		<Affiliation>Empire, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -181,7 +181,7 @@
 
 		<Icon_Name>i_button_baktoid.TGA</Icon_Name>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -232,7 +232,7 @@
 
 		<Icon_Name>I_BUTTON_BALMORRAN_ARMS.TGA</Icon_Name>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -287,7 +287,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -580,7 +580,7 @@
 		<Land_Model_Name>EB_GOVERNORSQUARTERS.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Rebel, Pentastar, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, EmpireoftheHand, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Pentastar, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, EmpireoftheHand, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>5000</Build_Cost_Credits>
 
@@ -633,7 +633,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Rebel, Zsinj_Empire, Pentastar, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Zsinj_Empire, Pentastar, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -745,7 +745,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Rebel, Hutt_Cartels, Pentastar, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Hutt_Cartels, Pentastar, Zsinj_Empire, Eriadu_Authority, Greater_Maldrood, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>2000</Build_Cost_Credits>
 
@@ -819,7 +819,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 
@@ -873,7 +873,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -979,7 +979,7 @@
 
 		<Icon_Name>I_BUTTON_GORMTALQUIST.TGA</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -1232,7 +1232,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>10000</Build_Cost_Credits>
 
@@ -1305,7 +1305,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>20000</Build_Cost_Credits>
 
@@ -1426,7 +1426,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Rebel, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>5000</Build_Cost_Credits>
 
@@ -1481,7 +1481,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>2500</Build_Cost_Credits>
 
@@ -1646,7 +1646,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 
@@ -1699,7 +1699,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -1760,7 +1760,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -1811,7 +1811,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Required_Planets>Charubah</Required_Planets>
 
@@ -1917,7 +1917,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>7500</Build_Cost_Credits>
 
@@ -1984,7 +1984,7 @@
 		<Land_Model_Name>UB_DroidWorks.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -2086,7 +2086,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus </Affiliation>
+		<Affiliation>Empire, Pentastar, Zsinj_Empire, Greater_Maldrood, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>2500</Build_Cost_Credits>
 
@@ -2266,7 +2266,7 @@
 	<SpecialStructure Name="SoroSuub_HQ_Cheap">
 		<Variant_Of_Existing_Type>SoroSuub_HQ</Variant_Of_Existing_Type>
 
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 	</SpecialStructure>
@@ -2278,7 +2278,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Rebel, Corporate_Sector, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Corporate_Sector, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -2394,7 +2394,7 @@
 		<Land_Model_Name>W_ImperialPalace.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 
 		<Build_Cost_Credits>10000</Build_Cost_Credits>
@@ -2447,7 +2447,7 @@
 
 		<Icon_Name>I_BUTTON_TELGORN.TGA</Icon_Name>
 
-		<Affiliation>Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -2497,7 +2497,7 @@
 		<Land_Model_Name>NB_PirateBase_01.alo</Land_Model_Name>
 		<Scale_Factor>0.75</Scale_Factor>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>3500</Build_Cost_Credits>
 
@@ -2621,7 +2621,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -2672,7 +2672,7 @@
 		<Land_Model_Name>EB_ResearchFacility.alo</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Corporate_Sector, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Zsinj_Empire, Greater_Maldrood, Corporate_Sector, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -2724,7 +2724,7 @@
 		<Land_Model_Name>RB_ResearchFacility.alo</Land_Model_Name> 
 		<Scale_Factor>1.5</Scale_Factor> 
 
-		<Affiliation>Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>5000</Build_Cost_Credits>
 
@@ -2830,7 +2830,7 @@
 
 		<Icon_Name>i_button_colicoid.TGA</Icon_Name>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 
@@ -3033,7 +3033,7 @@
 		<Land_Model_Name> RB_ResearchFacility.alo </Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>2500</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -3094,7 +3094,7 @@
 
 		<Land_Model_Name>W_Uplink_Station.ALO</Land_Model_Name>
 		<Scale_Factor>1.5</Scale_Factor>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Build_Cost_Credits>5000</Build_Cost_Credits>
 		<Build_Time_Seconds>120</Build_Time_Seconds>

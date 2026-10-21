@@ -22,6 +22,9 @@ function WarlordStart:new(galactic_conquest, id, human_player, planets)
 	self.warlord_name = "Imperial_Proteus"
 	self.p_zsinj = Find_Player("Zsinj_Empire")
 	self.warlord_player = Find_Player(self.warlord_name)
+	self.warlord_faction_names = {"Imperial_Proteus", "Proteus_Two"}
+	self.selection_slot = 1
+	self.selected_warlords = {}
 	self.selectionlist = {}
 	self.optionlist = {}
 	self.pagesize = 8
@@ -33,14 +36,22 @@ function WarlordStart:new(galactic_conquest, id, human_player, planets)
 	self.SafePlanetTable = StoryUtil.GetSafePlanetTable()
 	
 	self.nonplayable = false
+	self.second_proteus = true
 	local ai_proteus_dummy = Find_First_Object("AI_Proteus_Dummy")
 	if ai_proteus_dummy then
 		ai_proteus_dummy.Despawn()
 		self.nonplayable = true
 	end
 
+	local second_proteus_dummy = Find_First_Object("Proteus_Two_Dummy")
+	if second_proteus_dummy then
+		second_proteus_dummy.Despawn()
+		self.second_proteus = true
+	end
+
 	crossplot:subscribe("WARLORD_START", self.Start_Trigger, self)
 	crossplot:subscribe("WARLORD_CHOICE_OPTION", self.Choice_Chosen, self)
+	crossplot:subscribe("WARLORD_SECOND_CHOICE_OPTION", self.Second_Choice_Chosen, self)
 end
 
 function WarlordStart:update()
@@ -81,10 +92,30 @@ function WarlordStart:Start_Trigger()
 		StoryUtil.ShowScreenText("This Galactic Conquest features an AI-controlled Minor Warlord", 20, nil, {r = 244, g = 244, b = 0})
 	end
 
+	self:Build_Option_List(year)
+
+	if table.getn(self.optionlist) == 0 then
+		StoryUtil.ShowScreenText("No warlord options exist on this map", 20, nil, {r = 244, g = 244, b = 0})
+		GlobalValue.Set("STORYLINE", "NO_PROTEUS_START")
+		GlobalValue.Set("NORANK",true)
+	else
+		self:Show_Warlord_Options()
+	end
+end
+
+function WarlordStart:Build_Option_List(year)
+	self.optionlist = {}
 	for id, entry in pairs(self.warlordlist) do
 		local start = entry.StartYear
 		local last = entry.LastYear
-		if (start == nil or year >= start) and (last == nil or year <= last) then
+		local already_selected = false
+		for _, selected in pairs(self.selected_warlords) do
+			if selected == id then
+				already_selected = true
+				break
+			end
+		end
+		if not already_selected and (start == nil or year >= start) and (last == nil or year <= last) then
 			local ok_to_add = false
 			for _, planet in pairs(get_value_per_era(entry.Planets, year)) do
 				if self.SafePlanetTable[planet] then
@@ -101,12 +132,10 @@ function WarlordStart:Start_Trigger()
 			end
 		end
 	end
+end
 
-	if table.getn(self.optionlist) == 0 then
-		StoryUtil.ShowScreenText("No warlord options exist on this map", 20, nil, {r = 244, g = 244, b = 0})
-		GlobalValue.Set("STORYLINE", "NO_PROTEUS_START")
-		GlobalValue.Set("NORANK",true)
-	else
+function WarlordStart:Show_Warlord_Options()
+	self.optionindex = self.pagesize
 		local choices = {}
 		if table.getn(self.optionlist) <= self.pagesize then
 			choices = self.optionlist
@@ -118,7 +147,6 @@ function WarlordStart:Start_Trigger()
 		end
 		crossplot:publish("POPUPEVENT", "WARLORD_CHOICE", choices, "WARLORD_CHOICE_OPTION")
 	end
-end
 
 function WarlordStart:Choice_Chosen(choice, cosmetic)
 	if choice == "WARLORD_CHOICE_MORE" then
@@ -140,7 +168,37 @@ function WarlordStart:Choice_Chosen(choice, cosmetic)
 		end
 		crossplot:publish("POPUPEVENT", "WARLORD_CHOICE", choices, "WARLORD_CHOICE_OPTION")
 	else
+		self.selected_warlords[self.selection_slot] = string.gsub(choice, "WARLORD_CHOICE_", "")
 		self:Populate_Chosen_Faction(choice, cosmetic)
+		StoryUtil.ChangeAIPlayer("PROTEUS_TWO", "WarlordAI")
+		if self.selection_slot == 1 and second_proteus then
+			self:Ask_For_Second_Warlord()
+		else
+			self:Finalize()
+		end
+	end
+end
+
+function WarlordStart:Ask_For_Second_Warlord()
+	local year = GlobalValue.Get("GALACTIC_YEAR") or 0.0
+	self:Build_Option_List(year)
+	if table.getn(self.optionlist) == 0 then
+		self:Finalize()
+		return
+	end
+	crossplot:publish("POPUPEVENT", "WARLORD_SECOND_CHOICE", {"YES", "NO"}, "WARLORD_SECOND_CHOICE_OPTION")
+end
+
+function WarlordStart:Second_Choice_Chosen(choice)
+	local normalized_choice = string.upper(choice or "")
+	if normalized_choice == "YES" or normalized_choice == "WARLORD_SECOND_CHOICE_YES" then
+		self.selection_slot = 2
+		self.warlord_name = self.warlord_faction_names[self.selection_slot]
+		self.warlord_player = Find_Player(self.warlord_name)
+		self:Build_Option_List(GlobalValue.Get("GALACTIC_YEAR") or 0.0)
+		self:Show_Warlord_Options()
+	else
+		self:Finalize()
 	end
 end
 
@@ -154,9 +212,15 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 		year = 1.0
 	end
 
+	if self.selection_slot == 1 then
 	GlobalValue.Set("PROTEUS_GROUP_NAME",choice)
 	GlobalValue.Set("PROTEUS_INITIAL_DISPLAY_NAME",entry.FriendlyName)
 	GlobalValue.Set("PROTEUS_CURRENT_DISPLAY_NAME",entry.FriendlyName)
+	else
+		GlobalValue.Set("PROTEUS_TWO_GROUP_NAME",choice)
+		GlobalValue.Set("PROTEUS_TWO_INITIAL_DISPLAY_NAME",entry.FriendlyName)
+		GlobalValue.Set("PROTEUS_TWO_CURRENT_DISPLAY_NAME",entry.FriendlyName)
+	end
 
 	crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", string.upper(self.warlord_name), entry.FriendlyName, entry.PlanetParticle)
 
@@ -177,7 +241,7 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 	end
 
 	if cosmetic ~= nil then
-		crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable)
+		crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable, self.warlord_name)
 		return
 	end
 
@@ -205,33 +269,6 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 				ChangePlanetOwnerAndRetreatHeroes(locale, self.warlord_player, nil, 2)
 				if spawncapital then
 					spawncapital = false
-					if entry.ShipyardCapitalOverride then
-						UnitUtil.SetLockList(self.warlord_name, {self.capital}, false)
-						local FactionObjects = Find_All_Objects_Of_Type(self.warlord_player)
-						for _, obj in pairs(FactionObjects) do
-							if obj.Get_Planet_Location() == locale then
-								if string.find(obj.Get_Type().Get_Name(), "IMPERIAL_PROTEUS_SHIPYARD_LEVEL_") then
-									obj.Despawn()
-									break
-								end
-							end
-						end
-						self.capital = entry.ShipyardCapitalOverride
-						UnitUtil.SetLockList(self.warlord_name, {self.capital})
-					elseif entry.CapitalOverride then
-						UnitUtil.SetLockList(self.warlord_name, {self.capital}, false)
-						local FactionObjects = Find_All_Objects_Of_Type(self.warlord_player)
-						for _, obj in pairs(FactionObjects) do
-							if obj.Get_Planet_Location() == locale then
-								if string.find(obj.Get_Type().Get_Name(), "IMPERIAL_PROTEUS_CAPITAL") then
-									obj.Despawn()
-									break
-								end
-							end
-						end
-						self.capital = entry.CapitalOverride
-						UnitUtil.SetLockList(self.warlord_name, {self.capital})
-					end
 					SpawnList({self.capital},locale,self.warlord_player,true,false)
 					local heroes = get_value_per_era(entry.HeroList,year)
 					for __, hero in pairs(heroes) do
@@ -257,7 +294,20 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 		end
 	end
 
-	crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable)
+	crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable, self.warlord_name)
+	if cosmetic ~= nil then
+		return
+	end
+
+	if self.selection_slot == 1 then
+		return
+	else
+		crossplot:publish("INITIALIZE_PROTEUS_TWO_LEGITIMACY", entry.LeaderTable, self.warlord_name)
+		return
+	end
+end
+
+function WarlordStart:Finalize()
 	crossplot:publish("INITIALIZE_AI", "empty")
 	self.warlordlist = nil
 	self.human_player = nil

@@ -187,7 +187,7 @@
 		<AI_Combat_Power>140</AI_Combat_Power>
 		<Maintenance_Cost>6</Maintenance_Cost>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tech_Level>0</Tech_Level>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
@@ -278,7 +278,7 @@
 		<AI_Combat_Power>99</AI_Combat_Power>
 		<Damage>20</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>6</Maintenance_Cost>
 
 		<Ship_Class>corvette</Ship_Class>
@@ -460,7 +460,7 @@
 
 	<SpaceUnit Name="IPV1_Gunboat_Proteus">
 		<Variant_Of_Existing_Type>Template_IPV1_Gunboat</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -481,7 +481,7 @@
 	
 	<SpaceUnit Name="Namana_Cruiser_Proteus">
 		<Variant_Of_Existing_Type>Template_Namana_Cruiser</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<GUI_Row> 0 </GUI_Row>
 		<Required_Special_Structures>
@@ -511,7 +511,7 @@
 		TEXT_TOOLTIP_CAPABILITY_ORBITAL_BOMBARDMENT
 		</Encyclopedia_Text>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Slice_Cost_Credits>1400</Slice_Cost_Credits>
 		<Tech_Level>0</Tech_Level>
@@ -558,7 +558,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_CARRACK_ZETA.tga</Icon_Name>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Slice_Cost_Credits>1400</Slice_Cost_Credits>
 		<Tech_Level>0</Tech_Level>
@@ -643,7 +643,7 @@
 		<AI_Combat_Power>742</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Override_Bounty_SP>20</Override_Bounty_SP>
 		<Maintenance_Cost>15</Maintenance_Cost>
@@ -866,7 +866,7 @@
 		<AI_Combat_Power>266</AI_Combat_Power>
 		<Damage>20</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>12</Maintenance_Cost>
 
 		<Ship_Class>corvette</Ship_Class>
@@ -1052,7 +1052,7 @@
 	<SpaceUnit Name="Corona_Tender">
 
 		<Variant_Of_Existing_Type>Corona</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Lua_Script>GenericGameObject</Lua_Script>
 		<Property_Flags> DoKite | HealsVehicles </Property_Flags>
 
@@ -1205,7 +1205,7 @@
 		TEXT_TOOLTIP_CAPABILITY_ORBITAL_BOMBARDMENT
 		</Encyclopedia_Text>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -1276,7 +1276,7 @@
 		<AI_Combat_Power>198</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>6</Maintenance_Cost>
 
@@ -1510,7 +1510,7 @@
 		<AI_Combat_Power>178</AI_Combat_Power>
 		<Damage>20</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>6</Maintenance_Cost>
 
@@ -1708,7 +1708,7 @@
 		<AI_Combat_Power>453</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>12</Maintenance_Cost>
 
@@ -1877,7 +1877,7 @@
 
 	<SpaceUnit Name="Proteus_Kaloth">
 		<Variant_Of_Existing_Type>Template_Kaloth_Battlecruiser</Variant_Of_Existing_Type>
-		<Affiliation> Imperial_Proteus </Affiliation>
+		<Affiliation> Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -1913,7 +1913,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_galleon_minelayer.tga</Icon_Name>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Slice_Cost_Credits>1400</Slice_Cost_Credits>
 		<Tech_Level>0</Tech_Level>
@@ -1981,7 +1981,7 @@
 	
 	<SpaceUnit Name="Bakura_Destroyer_Proteus">
 		<Variant_Of_Existing_Type>Template_Bakura_Destroyer</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Starting_Spawned_Units_Tech_0>Bakuran_GPA_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>Bakuran_GPA_Squadron, 1</Reserve_Spawned_Units_Tech_0>
 		<Tech_Level>0</Tech_Level>
@@ -2050,7 +2050,7 @@
 		<AI_Combat_Power>2000</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>63</Maintenance_Cost>
 
 		<Ship_Class>capital</Ship_Class>
@@ -2259,7 +2259,7 @@
 		<AI_Combat_Power>936</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>21</Maintenance_Cost>
 
@@ -2479,7 +2479,7 @@
 		<Autoresolve_Health>3456</Autoresolve_Health>
 		<Damage>30</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>48</Maintenance_Cost>
 		
@@ -2712,7 +2712,7 @@
 		<AI_Combat_Power>7729</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>168</Maintenance_Cost>
 
 		<Ship_Class>capital</Ship_Class>
@@ -2930,7 +2930,7 @@
 		<AI_Combat_Power>2672</AI_Combat_Power>
 		<Damage>30</Damage>
 
-		<Affiliation>Imperial_Proteus, Zsinj_Empire</Affiliation>
+		<Affiliation>Imperial_Proteus, Zsinj_Empire, Proteus_Two</Affiliation>
 		<Maintenance_Cost>75</Maintenance_Cost>
 
 		<Ship_Class>capital</Ship_Class>
@@ -3113,7 +3113,7 @@
 		TEXT_TOOLTIP_CAPABILITY_BOARDABLE
 		</Encyclopedia_Text>
 
-		<Affiliation>Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Imperial_Proteus, Empire, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -3189,7 +3189,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_ACCLAMATOR_I_SUPPORT.TGA</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -3276,7 +3276,7 @@
 		<AI_Combat_Power>704</AI_Combat_Power>
 		<Population_Value>15</Population_Value>
 		<Tech_Level>0</Tech_Level>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<SpaceBehavior> ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, SELECTABLE, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, DAMAGE_TRACKING, ASTEROID_FIELD_DAMAGE, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
 
@@ -3361,7 +3361,7 @@
 
 		<AI_Combat_Power>1496</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Damage>35</Damage>
 
 		<Required_Special_Structures>
@@ -3449,7 +3449,7 @@
 		<AI_Combat_Power>3591</AI_Combat_Power>
 		<Damage>70</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>81</Maintenance_Cost>
 
 		<Ship_Class>capital</Ship_Class>
@@ -3629,7 +3629,7 @@
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Tech_Level>0</Tech_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Death_Clone>Damage_Normal, Star_Destroyer_Two_Death_Clone</Death_Clone>
 
@@ -3690,7 +3690,7 @@
 		
 		<Tech_Level>0</Tech_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation> <!-- Stop AI enumerating -->
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation> <!-- Stop AI enumerating -->
 		
 		<HardPoints>
 			HP_Star_Destroyer_2_Weapon_01, HP_Star_Destroyer_2_Weapon_02, HP_Star_Destroyer_2_Weapon_03, HP_Star_Destroyer_2_Weapon_04, HP_Star_Destroyer_Weapon_05, HP_Star_Destroyer_Weapon_06,
@@ -3753,7 +3753,7 @@
 		<AI_Combat_Power>453</AI_Combat_Power>
 		<Damage>40</Damage>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Maintenance_Cost>12</Maintenance_Cost>
 
@@ -4082,7 +4082,7 @@
 
 	<SpaceUnit Name="Mansk_Frigate"> <!-- Non-influence version for Tapani Sector Proteus -->
 		<Variant_Of_Existing_Type>Template_Mansk_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>
 		Imperial_Proteus_Shipyard_Level_One | Imperial_Proteus_Shipyard_Level_Two | Imperial_Proteus_Shipyard_Level_Three | Imperial_Proteus_Shipyard_Level_Four,
@@ -4098,7 +4098,7 @@
 	
 	<!-- <SpaceUnit Name="Mansk_Frigate_Influence">
 		<Variant_Of_Existing_Type>Template_Mansk_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Rebel, Pentastar, Greater_Maldrood, Eriadu_Authority, Zsinj_Empire, Hutt_Cartels, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Pentastar, Greater_Maldrood, Eriadu_Authority, Zsinj_Empire, Hutt_Cartels, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>
 		NewRepublic_Shipyard_Level_One | NewRepublic_Shipyard_Level_Two | NewRepublic_Shipyard_Level_Three | NewRepublic_Shipyard_Level_Four |
@@ -4351,7 +4351,7 @@
 
 	<SpaceUnit Name="Hornet_Assault_Carrier">
 		<Variant_Of_Existing_Type>Template_Hornet</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -4376,7 +4376,7 @@
 	<!-- <SpaceUnit Name="Hornet_Influence">
 		<Variant_Of_Existing_Type>Template_Hornet</Variant_Of_Existing_Type>
 	
-		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -4613,7 +4613,7 @@
 
 	<SpaceUnit Name="Tapani_Assault_Frigate"> <!-- Non-influence version for Tapani Sector Proteus -->
 		<Variant_Of_Existing_Type>Template_Tapani_Assault_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>
 		Imperial_Proteus_Shipyard_Level_Two | Imperial_Proteus_Shipyard_Level_Three | Imperial_Proteus_Shipyard_Level_Four,
@@ -4628,7 +4628,7 @@
 	
 	<!-- <SpaceUnit Name="Tapani_Assault_Frigate_Influence">
 		<Variant_Of_Existing_Type>Template_Tapani_Assault_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Empire, Rebel, Pentastar, Greater_Maldrood, Eriadu_Authority, Zsinj_Empire, Hutt_Cartels, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Pentastar, Greater_Maldrood, Eriadu_Authority, Zsinj_Empire, Hutt_Cartels, Corporate_Sector, EmpireoftheHand, Hapes_Consortium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Special_Structures>
 		NewRepublic_Shipyard_Level_Two | NewRepublic_Shipyard_Level_Three | NewRepublic_Shipyard_Level_Four |
@@ -4701,7 +4701,7 @@
 		<Population_Value>6</Population_Value>
 		<AI_Combat_Power>500</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<CategoryMask>Frigate | AntiCapital | AntiFrigate</CategoryMask>
 		<Property_Flags> Interdictor | Boardable</Property_Flags>
@@ -4780,7 +4780,7 @@
 		<Population_Value>12</Population_Value>
 		<AI_Combat_Power>803</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Population_Value>12</Population_Value>
 
@@ -4817,7 +4817,7 @@
 		<Property_Flags>GTSImmune</Property_Flags>
 		<Ranking_In_Category>5</Ranking_In_Category>
 		<Tech_Level>0</Tech_Level>
-		<Affiliation>Imperial_Proteus</Affiliation> <!-- Stop AI enumerating -->
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation> <!-- Stop AI enumerating -->
 		<Lua_Script>GenericGameObject</Lua_Script>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Required_Special_Structures>
@@ -4902,7 +4902,7 @@
 		TEXT_TOOLTIP_CAPABILITY_BOMBING_RUN
 		</Encyclopedia_Text>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Space_Model_Name>lucrehulk_bship.ALO</Space_Model_Name>
 		<Icon_Name>I_BUTTON_LUCREHULK_BATTLESHIP.TGA</Icon_Name>
 		<Tech_Level>0</Tech_Level>
@@ -5063,7 +5063,7 @@
 		<Damage>1</Damage>
 		<AI_Combat_Power>2.57</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>0</Maintenance_Cost>
 
 		<Ship_Class>fighter</Ship_Class>
@@ -5219,7 +5219,7 @@
 		<Required_Timeline/>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<GUI_Row> 0 </GUI_Row>
 		<Build_Cost_Credits>300</Build_Cost_Credits>
@@ -7946,7 +7946,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_TIE_Interceptor_Ion.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<HardPoints> HP_TIE_Interceptor_00, HP_TIE_Interceptor_01, HP_Ion_Interceptor_00</HardPoints>
 	</SpaceUnit>
@@ -7966,7 +7966,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_TIE_Interceptor_Ion_one.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Create_Team_Type>TIE_Interceptor_Ion_Squadron_Container</Create_Team_Type>
 		<Squadron_Units>TIE_Interceptor_Ion, TIE_Interceptor_Ion, TIE_Interceptor_Ion, TIE_Interceptor_Ion</Squadron_Units>
@@ -8007,7 +8007,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_TIE_Interceptor_Ion_two.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Create_Team_Type>TIE_Interceptor_Ion_Squadron_Double_Container</Create_Team_Type>
 		<Squadron_Units>TIE_Interceptor_Ion, TIE_Interceptor_Ion, TIE_Interceptor_Ion, TIE_Interceptor_Ion</Squadron_Units>
@@ -8051,7 +8051,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_TIE_Interceptor_Ion_half.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Create_Team_Type>TIE_Interceptor_Ion_Squadron_Half_Container</Create_Team_Type>
 		<Squadron_Units>TIE_Interceptor_Ion, TIE_Interceptor_Ion, TIE_Interceptor_Ion</Squadron_Units>
@@ -9093,7 +9093,7 @@
 		<Damage>1</Damage>
 		<AI_Combat_Power>4.19</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>0</Maintenance_Cost>
 
 		<Ship_Class>fighter</Ship_Class>
@@ -9248,7 +9248,7 @@
 		<Required_Timeline/>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<GUI_Row> 0 </GUI_Row>
 		<Build_Cost_Credits>300</Build_Cost_Credits>
@@ -9770,7 +9770,7 @@
 		<Damage>1</Damage>
 		<AI_Combat_Power>4.83</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>0</Maintenance_Cost>
 
 		<Ship_Class>fighter</Ship_Class>
@@ -9925,7 +9925,7 @@
 		<Required_Timeline/>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<GUI_Row> 0 </GUI_Row>
 		<Build_Cost_Credits>300</Build_Cost_Credits>
@@ -10448,7 +10448,7 @@
 		<Damage>1</Damage>
 		<AI_Combat_Power>11.33</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Maintenance_Cost>0</Maintenance_Cost>
 
 		<Ship_Class>bomber</Ship_Class>
@@ -10605,7 +10605,7 @@
 		<Required_Timeline/>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 
-		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<GUI_Row> 0 </GUI_Row>
 		<Build_Cost_Credits>300</Build_Cost_Credits>
@@ -14008,7 +14008,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_missile_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Missile_TIE_Fighter_Squadron_Container</Create_Team_Type>
@@ -14048,7 +14048,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_missile_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Missile_TIE_Fighter_Squadron_Double_Container</Create_Team_Type>
@@ -14091,7 +14091,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_missile_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Missile_TIE_Fighter_Squadron_Half_Container</Create_Team_Type>
@@ -14162,7 +14162,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_shielded_missile_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Shielded_Missile_TIE_Fighter_Squadron_Container</Create_Team_Type>
@@ -14206,7 +14206,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_shielded_missile_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Shielded_Missile_TIE_Fighter_Squadron_Double_Container</Create_Team_Type>
@@ -14254,7 +14254,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_tie_fighter_shielded_missile_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Shielded_Missile_TIE_Fighter_Squadron_Half_Container</Create_Team_Type>
@@ -14979,7 +14979,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_assault_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Assault_Eta2_Actis_Squadron_Container</Create_Team_Type>
@@ -15019,7 +15019,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_assault_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Assault_Eta2_Actis_Squadron_Double_Container</Create_Team_Type>
@@ -15062,7 +15062,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_assault_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Assault_Eta2_Actis_Squadron_Half_Container</Create_Team_Type>
@@ -15132,7 +15132,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_defensive_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Defensive_Eta2_Actis_Squadron_Container</Create_Team_Type>
@@ -15176,7 +15176,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_defensive_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Defensive_Eta2_Actis_Squadron_Double_Container</Create_Team_Type>
@@ -15224,7 +15224,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_defensive_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Defensive_Eta2_Actis_Squadron_Half_Container</Create_Team_Type>
@@ -15293,7 +15293,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_maneuver_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Rebel, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Maneuver_Eta2_Actis_Squadron_Container</Create_Team_Type>
@@ -15337,7 +15337,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_maneuver_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Maneuver_Eta2_Actis_Squadron_Double_Container</Create_Team_Type>
@@ -15385,7 +15385,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_eta2_maneuver_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Maneuver_Eta2_Actis_Squadron_Half_Container</Create_Team_Type>
@@ -15445,7 +15445,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_v_wing_esk_one.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>Nimbus_V_Wing_Esk_Squadron_Container</Create_Team_Type>
@@ -15485,7 +15485,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_v_wing_esk_two.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>Nimbus_V_Wing_Esk_Squadron_Double_Container</Create_Team_Type>
@@ -15528,7 +15528,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>i_button_v_wing_esk_half.tga</Icon_Name>
 
-		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Eriadu_Authority, Zsinj_Empire, Greater_Maldrood, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>Nimbus_V_Wing_Esk_Squadron_Half_Container</Create_Team_Type>
@@ -15622,7 +15622,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_TIE_FIGHTER_BF2_ONE.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 12 </Max_Squad_Size>
 		<Create_Team_Type>TIE_Fighter_BF2_Squadron_Container</Create_Team_Type>
@@ -15714,7 +15714,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_TIE_FIGHTER_BF2_TWO.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 24 </Max_Squad_Size>
 		<Create_Team_Type>TIE_Fighter_BF2_Squadron_Double_Container</Create_Team_Type>
@@ -15809,7 +15809,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_TIE_FIGHTER_BF2_HALF.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Max_Squad_Size> 6 </Max_Squad_Size>
 		<Create_Team_Type>TIE_Fighter_BF2_Squadron_Half_Container</Create_Team_Type>

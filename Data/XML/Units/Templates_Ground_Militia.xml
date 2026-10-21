@@ -982,7 +982,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2091,7 +2091,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2555,7 +2555,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Land_Model_Anim_Override_Name>Regularinfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_MILITIA_SOLDIER.tga</Icon_Name>
 		<AI_Combat_Power>144.52</AI_Combat_Power>
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -2607,7 +2607,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3090,7 +3090,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus, Greater_Maldrood</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two, Greater_Maldrood</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3559,7 +3559,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -4005,7 +4005,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -5020,7 +5020,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Land_Model_Anim_Override_Name>MilitiaInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_MINORCULTIST.tga</Icon_Name>
 		<AI_Combat_Power>124.67</AI_Combat_Power>
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -5077,7 +5077,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -5231,7 +5231,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Land_Model_Anim_Override_Name>BountyHunter.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_MANDOMERC_SOLDIER.tga</Icon_Name>
 		<AI_Combat_Power>146.73</AI_Combat_Power>
-		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, EmpireoftheHand, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Yevetha, Imperial_Proteus, Warlords, Independent_Forces, Mandalorians</Affiliation>
+		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, EmpireoftheHand, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Yevetha, Imperial_Proteus, Proteus_Two, Warlords, Independent_Forces, Mandalorians</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -5423,7 +5423,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Land_Model_Anim_Override_Name>FlyingInfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_MANDOMERC_COMMANDO.tga</Icon_Name>
 		<AI_Combat_Power>124.67</AI_Combat_Power>
-		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, EmpireoftheHand, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Yevetha, Imperial_Proteus, Warlords, Independent_Forces, Mandalorians</Affiliation>
+		<Affiliation>Rebel, Empire, Underworld, Hutt_Cartels, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, EmpireoftheHand, SsiRuuvi_Imperium, Trade_Federation, Techno_Union, Banking_Clan, Commerce_Guild, Yevetha, Imperial_Proteus, Proteus_Two, Warlords, Independent_Forces, Mandalorians</Affiliation>
 	</GroundInfantry>
 
 	<GroundCompany Name="Mandalorian_Commando_Company">
@@ -5470,7 +5470,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Rebel, Empire, Hutt_Cartels, Warlords, Independent_Forces, Mandalorians, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, Hutt_Cartels, Warlords, Independent_Forces, Mandalorians, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -6746,7 +6746,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Damage>8</Damage>
 		<AI_Combat_Power>32</AI_Combat_Power>
 
-		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus, Independent_Forces</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Hutt_Cartels, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus, Proteus_Two, Independent_Forces</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -6948,7 +6948,7 @@ f<?xml version='1.0' encoding='ASCII'?>
 		<Damage>8</Damage>
 		<AI_Combat_Power>62</AI_Combat_Power>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Type>Hover</Type>

@@ -2592,7 +2592,7 @@
 		TEXT_TOOLTIP_SHIPYARD_ALL_BOOTANA
 		</Encyclopedia_Text>
 
- 		<Affiliation>Zsinj_Empire, Hutt_Cartels, Imperial_Proteus</Affiliation>
+ 		<Affiliation>Zsinj_Empire, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Tactical_Buildable_Objects_Campaign> 
 			Hutt_Cartels,
@@ -2661,7 +2661,7 @@
 	<SpecialStructure Name="Imperial_Proteus_Shipyard_Level_One">
 		<Variant_Of_Existing_Type>Template_Shipyard_Level_One</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Starting_Spawned_Units_Tech_1>Beta_ETR_3_Squadron,2</Starting_Spawned_Units_Tech_1>
 		<Starting_Spawned_Units_Tech_1>Skirmish_Carrack_Cruiser,2</Starting_Spawned_Units_Tech_1>
@@ -2696,7 +2696,7 @@
 	<SpecialStructure Name="Imperial_Proteus_Shipyard_Level_Two">
 		<Variant_Of_Existing_Type>Template_Shipyard_Level_Two</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Starting_Spawned_Units_Tech_1>Skirmish_Carrack_Cruiser,2</Starting_Spawned_Units_Tech_1>
 		<Starting_Spawned_Units_Tech_1>Skirmish_Imperial_DHC,2</Starting_Spawned_Units_Tech_1>
@@ -2731,7 +2731,7 @@
 	<SpecialStructure Name="Imperial_Proteus_Shipyard_Level_Three">
 		<Variant_Of_Existing_Type>Template_Shipyard_Level_Three</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Starting_Spawned_Units_Tech_1>Howlrunner_Squadron_Double,1</Starting_Spawned_Units_Tech_1>
 		<Reserve_Spawned_Units_Tech_1>Howlrunner_Squadron_Double,2</Reserve_Spawned_Units_Tech_1>
@@ -2769,7 +2769,7 @@
 	<SpecialStructure Name="Imperial_Proteus_Shipyard_Level_Four">
 		<Variant_Of_Existing_Type>Template_Shipyard_Level_Four</Variant_Of_Existing_Type>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Starting_Spawned_Units_Tech_1>Skirmish_Imperial_DHC,2</Starting_Spawned_Units_Tech_1>
 		<Starting_Spawned_Units_Tech_1>Skirmish_IPV1,3</Starting_Spawned_Units_Tech_1>
@@ -2944,7 +2944,7 @@
 		<Radar_Icon_Size>0.16  0.16</Radar_Icon_Size>
 		<Radar_Rotate_Icon>Yes</Radar_Rotate_Icon>
 		
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<!--All Eras-->
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>

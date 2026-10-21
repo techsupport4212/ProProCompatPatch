@@ -13,7 +13,7 @@
 
 		<Text_ID>TEXT_HERO_RANDOM_PIRATE</Text_ID>
 		<Lua_Script>RandomPirateFighter</Lua_Script>
-		<Affiliation>Imperial_Proteus, Zsinj_Empire, Hutt_Cartels</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Zsinj_Empire, Hutt_Cartels</Affiliation>
 		<Icon_Name>I_BUTTON_PIRATE_TIER4.tga</Icon_Name>
 
 		<Tech_Level>1</Tech_Level>
@@ -42,7 +42,7 @@
 
 		<Text_ID>TEXT_HERO_RANDOM_PIRATE</Text_ID>
 		<Lua_Script>RandomPirates</Lua_Script>
-		<Affiliation>Imperial_Proteus, Zsinj_Empire, Hutt_Cartels</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Zsinj_Empire, Hutt_Cartels</Affiliation>
 		<Icon_Name>I_BUTTON_PIRATE_TIER3.tga</Icon_Name>
 
 		<Tech_Level>1</Tech_Level>
@@ -84,7 +84,7 @@
 
 		<Text_ID>TEXT_HERO_RANDOM_PIRATE</Text_ID>
 		<Lua_Script>RandomPiratesHeavy</Lua_Script>
-		<Affiliation>Imperial_Proteus, Zsinj_Empire, Hutt_Cartels</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Zsinj_Empire, Hutt_Cartels</Affiliation>
 		<Icon_Name>I_BUTTON_PIRATE_TIER2.tga</Icon_Name>
 
 		<Tech_Level>1</Tech_Level>
@@ -121,7 +121,7 @@
 
 		<Text_ID>TEXT_HERO_RANDOM_PIRATE</Text_ID>
 		<Lua_Script>RandomPirateLegend</Lua_Script>
-		<Affiliation>Imperial_Proteus, Zsinj_Empire, Hutt_Cartels</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Zsinj_Empire, Hutt_Cartels</Affiliation>
 		<Icon_Name>I_BUTTON_PIRATE_TIER1.tga</Icon_Name>
 
 		<Tech_Level>1</Tech_Level>
@@ -1617,7 +1617,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slaver_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -1968,7 +1968,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -2056,7 +2056,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 
@@ -2251,7 +2251,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slaver_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -2404,7 +2404,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slaver_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -2722,7 +2722,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Syndicate_Head_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 1 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -2889,7 +2889,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>
@@ -2971,7 +2971,7 @@
 			<Bounty_On_Faction_Ability Name="Agent_Tier_Slavelord_Destruction_Income_Bonus">
 				<Bounty_Percentage_Amount> 2 </Bounty_Percentage_Amount>
 				<Stacking_Category> 1 </Stacking_Category>
-				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
+				<Target_Faction_Names> Empire, Rebel, Underworld, Eriadu_Authority, Pentastar, Greater_Maldrood, Zsinj_Empire, Imperial_Proteus, Proteus_Two, EmpireoftheHand, Chiss, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Corellia, Yevetha, SsiRuuvi_Imperium, Killik_Hives, Mandalorians, Independent_Forces, Warlords, Neutral, Hostile </Target_Faction_Names>
 				<Apply_To_All_Allies> Yes </Apply_To_All_Allies>
 			</Bounty_On_Faction_Ability>
 		</Abilities>

@@ -112,33 +112,33 @@ function TechHandler:new(galactic_conquest, human_player, planets)
 		
 	self.ZCoronaResearch = GenericResearch(self.galactic_conquest,
 		"KUAT_CORONA_RESEARCH",
-		"KUAT_Dummy_Research_Corona", {"Imperial_Proteus"},
+		"KUAT_Dummy_Research_Corona", {"Imperial_Proteus","Proteus_Two"},
 		{"Corona","Corona_Tender"},
 		{"Imperial_Nebulon_B","Nebulon_B_Tender"})
 
 	self.ZCoronaResearch = GenericResearch(self.galactic_conquest,
 		"Z_CORONA_RESEARCH",
-		"Z_Research_Corona", {"Imperial_Proteus"},
+		"Z_Research_Corona", {"Imperial_Proteus", "Proteus_Two"},
 		{"Corona","Corona_Tender"},
 		{"Imperial_Nebulon_B","Star_Galleon"})
 
 	self.ZGorathResearch = GenericResearch(self.galactic_conquest,
 		"Z_GORATH_RESEARCH",
-		"Z_Research_Gorath", {"Imperial_Proteus"},
+		"Z_Research_Gorath", {"Imperial_Proteus", "Proteus_Two"},
 		{"Strike_Cruiser_Gorath"},
 		{"Strike_Cruiser"})
 
 	self.ZAF2Research = GenericResearch(self.galactic_conquest,
 		"Z_AF2_RESEARCH",
 		"Z_Research_AF2",
-		{"Imperial_Proteus"},
+		{"Imperial_Proteus", "Proteus_Two"},
 		{"Alliance_Assault_Frigate_II"}
 		)
 
 	self.ZMTCResearch = GenericResearch(self.galactic_conquest,
 		"Z_MTC_RESEARCH",
 		"Z_Research_MTC",
-		{"Imperial_Proteus"},
+		{"Imperial_Proteus", "Proteus_Two"},
 		{"MTC_Sensor"}
 		)
 end

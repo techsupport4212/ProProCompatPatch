@@ -31,7 +31,7 @@
 		Black_15,
 		AI_Category_Dummy | Structure_Category_Dummy
 		</Required_Special_Structures>
-		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>i_button_scrap_economic.tga</Icon_Name>
 
 		<Population_Value>0</Population_Value>
@@ -126,7 +126,7 @@
 		CSA_Ship_Market,
 		AI_Category_Dummy | Structure_Category_Dummy
 		</Required_Special_Structures>
-		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>i_button_scrap_production.tga</Icon_Name>
 
 		<Population_Value>0</Population_Value>
@@ -168,7 +168,7 @@
 		Secondary_Meridian_IV,
 		AI_Category_Dummy | Structure_Category_Dummy
 		</Required_Special_Structures>
-		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Rebel, Hutt_Cartels, Underworld, EmpireoftheHand, Pentastar, Greater_Maldrood, Zsinj_Empire, Hapes_Consortium, Eriadu_Authority, Corporate_Sector, SsiRuuvi_Imperium, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Icon_Name>i_button_scrap_secondary.tga</Icon_Name>
 
 		<Population_Value>0</Population_Value>

@@ -968,7 +968,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1040,7 +1040,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1219,7 +1219,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1326,7 +1326,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1403,7 +1403,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1517,7 +1517,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Independent_Forces, Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Warlords, Independent_Forces, Imperial_Proteus, Proteus_Two, Empire</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1703,7 +1703,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Independent_Forces, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Independent_Forces, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1756,7 +1756,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Company_Units>AA70_Command_Truck, AA70_Command_Truck</Company_Units>
 
@@ -1832,7 +1832,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Company_Units>T2A_Tank, T2A_Tank, T2A_Tank, T2A_Tank</Company_Units>
 
@@ -1946,7 +1946,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Company_Units>Freerunner_AA, Freerunner_AA, Freerunner_AA</Company_Units>
 
@@ -2065,7 +2065,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Company_Units>T4A_Tank, T4A_Tank</Company_Units>
 
@@ -2114,7 +2114,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2175,7 +2175,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2310,7 +2310,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2506,7 +2506,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Warlords, Imperial_Proteus</Affiliation>
+		<Affiliation>Warlords, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2533,7 +2533,7 @@
 		<Land_Model_Anim_Override_Name>Regularinfantry.alo</Land_Model_Anim_Override_Name>
 		<Icon_Name>I_BUTTON_SUN_GUARD.tga</Icon_Name>
 		<AI_Combat_Power>132.09</AI_Combat_Power>
-		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -3033,7 +3033,7 @@
 		<Land_Model_Name>Nimbus_commando.ALO</Land_Model_Name>
 		<Land_Model_Anim_Override_Name>TrainedInfantry.alo</Land_Model_Anim_Override_Name>
 		<AI_Combat_Power>95.70</AI_Combat_Power>
-		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Imperial_Proteus</Affiliation>
+		<Affiliation>Rebel, Empire, EmpireoftheHand, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Pentastar, Corporate_Sector, Hapes_Consortium, Hutt_Cartels, Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>

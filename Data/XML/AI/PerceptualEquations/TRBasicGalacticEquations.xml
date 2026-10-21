@@ -29,6 +29,8 @@
 		+
 		Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0}
 		+
+		Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0}
+		+
 		Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0}) > 0.0
 	</Is_Connected_To_Player>
 
@@ -100,6 +102,10 @@
 		Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} > 0.0
 	</Is_Connected_To_Imperial_Proteus>
 
+	<Is_Connected_To_Proteus_Two>
+		Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} > 0.0
+	</Is_Connected_To_Proteus_Two>
+
 	<Is_Connected_To_Enemy_Human>
 		(
 			(
@@ -115,6 +121,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -133,6 +140,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -151,6 +159,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -169,6 +178,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Underworld", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Underworld"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -187,6 +197,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -205,6 +216,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -223,6 +235,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -241,6 +254,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -260,6 +274,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -278,6 +293,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -296,6 +312,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -314,6 +331,7 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Corporate_Sector", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Corporate_Sector"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 			) 
 			*
@@ -350,10 +368,30 @@
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Corporate_Sector", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Corporate_Sector"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Proteus_Two", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Proteus_Two"}
 			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
 			) 
 			*
 			Variable_Self.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+
+			(
+			Variable_Target.IsConnectedTo {Parameter_Faction = "Rebel", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Rebel"} 
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Underworld", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Underworld"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Zsinj_Empire", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Zsinj_Empire"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Eriadu_Authority", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Eriadu_Authority"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Pentastar", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Pentastar"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Greater_Maldrood", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Greater_Maldrood"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hutt_Cartels", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hutt_Cartels"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "SsiRuuvi_Imperium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "SsiRuuvi_Imperium"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Empire", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Empire"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "EmpireoftheHand", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "EmpireoftheHand"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Corporate_Sector", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Corporate_Sector"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Hapes_Consortium", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Imperial_Proteus", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+			+ Variable_Target.IsConnectedTo {Parameter_Faction = "Yevetha", Parameter_Attenuator = 0.0} * Variable_Human.IsFaction {Parameter_Faction = "Hapes_Consortium"}
+			) 
+			*
+			Variable_Self.IsFaction {Parameter_Faction = "Proteus_Two"}
 		) > 0.0
 	</Is_Connected_To_Enemy_Human>
 
@@ -418,6 +456,9 @@
 		+
 		Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"} *
 		Variable_Self.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+
+		Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"} *
+		Variable_Self.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+
 		Variable_Target.IsFaction {Parameter_Faction = "Yevetha"} *
 		Variable_Self.IsFaction {Parameter_Faction = "Yevetha"}
@@ -484,6 +525,9 @@
 		Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"} *
 		Variable_Self.IsFaction {Parameter_Faction = "Imperial_Proteus"}
 		+
+		Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"} *
+		Variable_Self.IsFaction {Parameter_Faction = "Proteus_Two"}
+		+
 		Variable_Target.IsFaction {Parameter_Faction = "Yevetha"} *
 		Variable_Self.IsFaction {Parameter_Faction = "Yevetha"}
 	</Is_Owned_By_Ally>
@@ -509,6 +553,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Rebel"}
@@ -533,6 +578,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Empire"}
@@ -557,6 +603,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Hutt_Cartels"}
@@ -581,6 +628,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "EmpireoftheHand"}
@@ -605,6 +653,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Underworld"}
@@ -629,6 +678,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Zsinj_Empire"}
@@ -653,6 +703,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Eriadu_Authority"}
@@ -677,6 +728,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Chiss"}
@@ -701,6 +753,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Corellia"}
@@ -725,6 +778,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "SsiRuuvi_Imperium"}
@@ -749,6 +803,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Hapes_Consortium"}
@@ -773,6 +828,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Corporate_Sector"}
@@ -797,6 +853,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Pentastar"}
@@ -821,6 +878,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Greater_Maldrood"}
@@ -845,6 +903,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Killik_Hives"}
@@ -869,6 +928,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Mandalorians"}
@@ -893,6 +953,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Yevetha"}
@@ -917,9 +978,35 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Mandalorians"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+
+		(
+		Variable_Target.IsFaction {Parameter_Faction = "Rebel"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Empire"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Hutt_Cartels"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "EmpireoftheHand"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Underworld"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Zsinj_Empire"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Eriadu_Authority"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Chiss"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Corellia"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "SsiRuuvi_Imperium"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Hapes_Consortium"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Killik_Hives"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Mandalorians"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Warlords"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Independent_Forces"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		)
+		*
+		Variable_Self.IsFaction {Parameter_Faction = "Proteus_Two"}
 	</Is_Owned_By_Enemy>
 
 	<Is_Owned_By_Active_Enemy>
@@ -934,6 +1021,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -950,6 +1038,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -966,6 +1055,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -982,6 +1072,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -998,6 +1089,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1014,6 +1106,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1030,6 +1123,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1046,6 +1140,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1062,6 +1157,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1078,6 +1174,7 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1094,6 +1191,8 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
@@ -1110,10 +1209,28 @@
 		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"}
 		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
 		)
 		*
 		Variable_Self.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+
+		(
+		Variable_Target.IsFaction {Parameter_Faction = "Rebel"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Empire"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Hutt_Cartels"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "EmpireoftheHand"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Zsinj_Empire"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Eriadu_Authority"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Hapes_Consortium"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Corporate_Sector"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Pentastar"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Greater_Maldrood"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"}
+		+ Variable_Target.IsFaction {Parameter_Faction = "Yevetha"}
+		)
+		*
+		Variable_Self.IsFaction {Parameter_Faction = "Proteus_Two"}
 	</Is_Owned_By_Active_Enemy>
 
 	<Player_Has_Capital_Building>
@@ -1141,9 +1258,13 @@
 				+
 				(Variable_Self.HasStructure{Parameter_Type = "Imperial_Proteus_Capital", Parameter_Only_Consider_Complete = 1.0} * Variable_Self.IsFaction{Parameter_Faction = "Imperial_Proteus"})
 				+
+				(Variable_Self.HasStructure{Parameter_Type = "Imperial_Proteus_Capital", Parameter_Only_Consider_Complete = 1.0} * Variable_Self.IsFaction{Parameter_Faction = "Proteus_Two"})
+				+
 				(Variable_Self.HasStructure{Parameter_Type = "Yevetha_Capital", Parameter_Only_Consider_Complete = 1.0} * Variable_Self.IsFaction{Parameter_Faction = "Yevetha"})
 				+
 				(Variable_Self.HasStructure{Parameter_Type = "Tierfon_Shipyard_Capital", Parameter_Only_Consider_Complete = 1.0} * Variable_Self.IsFaction{Parameter_Faction = "Imperial_Proteus"})
+				+
+				(Variable_Self.HasStructure{Parameter_Type = "Tierfon_Shipyard_Capital", Parameter_Only_Consider_Complete = 1.0} * Variable_Self.IsFaction{Parameter_Faction = "Proteus_Two"})
 	</Player_Has_Capital_Building>
 
 	<Is_Important_Planet>
@@ -1298,5 +1419,7 @@
 		21.0*(Variable_Target.IsFaction {Parameter_Faction = "Imperial_Proteus"})
 		+
 		22.0*(Variable_Target.IsFaction {Parameter_Faction = "Yevetha"})
+		+
+		23.0*(Variable_Target.IsFaction {Parameter_Faction = "Proteus_Two"})
 	</Get_Faction_Index>
 </Equations>

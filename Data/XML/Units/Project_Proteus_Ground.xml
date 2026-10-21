@@ -35,7 +35,7 @@
 		<Land_Model_Name>rep_barc_speeder_legions.ALO</Land_Model_Name>
 		<Icon_Name>i_button_barc_speeder.tga</Icon_Name>
 		<AI_Combat_Power>188.25</AI_Combat_Power>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<Unit_Ability>
@@ -82,7 +82,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>ABILITY_COUNTDOWN, DUMMY_GROUND_COMPANY</Behavior>
@@ -359,7 +359,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus, Empire</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two, Empire</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -483,7 +483,7 @@
 		<Damage>20</Damage>
 		<AI_Combat_Power>35</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -680,7 +680,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -782,7 +782,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>200</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -978,7 +978,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1066,7 +1066,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>94</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -1268,7 +1268,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1348,7 +1348,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -1418,7 +1418,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1489,7 +1489,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>87</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -1696,7 +1696,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -1766,7 +1766,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>57</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -1975,7 +1975,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2045,7 +2045,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>177</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Tracked</Type>
@@ -2252,7 +2252,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2324,7 +2324,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2395,7 +2395,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2655,7 +2655,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -2747,7 +2747,7 @@
 		</Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_ATAT_ION_REFIT.tga</Icon_Name>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 
 		<Company_Units>AT_AT_WALKER_IC</Company_Units>
@@ -2797,7 +2797,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3019,7 +3019,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -3088,7 +3088,7 @@
 		
 		<GUI_Bracket_Size>1</GUI_Bracket_Size>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3326,7 +3326,7 @@
 		<!--<Is_Sprite>No</Is_Sprite>-->
 		<Type>Hover</Type>
 		<Deploys>No</Deploys>
-		<Affiliation>Empire, Greater_Maldrood, Pentastar, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Warlords</Affiliation>
+		<Affiliation>Empire, Greater_Maldrood, Pentastar, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Warlords</Affiliation>
 		<Vehicle_Thief_Inside_Clone>SP9_Captured</Vehicle_Thief_Inside_Clone>
 
 		<Max_Speed>1.0</Max_Speed>
@@ -3503,7 +3503,7 @@
 		<Is_Dummy>Yes</Is_Dummy>
 		<Damage>40</Damage>
 		<Autoresolve_Health>100</Autoresolve_Health>
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Build_Cost_Credits>300</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
@@ -3603,7 +3603,7 @@
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Company_Units>Imperial_AAT, Imperial_AAT, Imperial_AAT</Company_Units>
 		
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -3650,7 +3650,7 @@
 		<Damage>6</Damage>
 		<AI_Combat_Power>48</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Hover</Type>
@@ -3849,7 +3849,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -3955,7 +3955,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>252</AI_Combat_Power>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control>0</Political_Control>
 
 		<Type>Walk</Type>
@@ -4166,7 +4166,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation> <!-- ZC -->
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation> <!-- ZC -->
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -4238,7 +4238,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -4299,7 +4299,7 @@
 		<Damage>100</Damage>
 		<AI_Combat_Power>204</AI_Combat_Power>
 
-		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Yevetha</Affiliation>
+		<Affiliation>Empire, Pentastar, Greater_Maldrood, Zsinj_Empire, Eriadu_Authority, Imperial_Proteus, Proteus_Two, Yevetha</Affiliation>
 
 		<Type>Walk</Type>
 		<CategoryMask> Vehicle | AntiInfantry | AntiVehicle </CategoryMask>
@@ -4705,7 +4705,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -4781,7 +4781,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 
@@ -5025,7 +5025,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation>Imperial_Proteus</Affiliation>
+		<Affiliation>Imperial_Proteus, Proteus_Two</Affiliation>
 		<Political_Control/>
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
@@ -5094,7 +5094,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 
-		<Affiliation> Imperial_Proteus </Affiliation>
+		<Affiliation> Imperial_Proteus, Proteus_Two </Affiliation>
 		<Political_Control />
 
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>

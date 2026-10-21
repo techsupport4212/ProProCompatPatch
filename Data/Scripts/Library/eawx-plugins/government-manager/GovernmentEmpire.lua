@@ -16,14 +16,16 @@ function GovernmentEmpire:new(gc, absorb, dark_empire_available, id)
     self.id = id
 
     self.inited = false
+    self.inited_two = false
     self.ProteusInited = false
-
+    self.ProteusTwoInited = false
     self.PlayerEmpire = Find_Player("Empire")
     self.PlayerPentastar = Find_Player("Pentastar")
     self.PlayerMaldrood = Find_Player("Greater_Maldrood")
     self.PlayerZsinj = Find_Player("Zsinj_Empire")
     self.PlayerEriadu = Find_Player("Eriadu_Authority")
     self.PlayerImperial_Proteus = Find_Player("Imperial_Proteus")
+    self.PlayerProteus_Two = Find_Player("Proteus_Two")
     self.PlayerWarlords = Find_Player("Warlords")
     self.PlayerHuman = Find_Player("local")
     self.HumanFactionName = self.PlayerHuman.Get_Faction_Name()
@@ -158,6 +160,22 @@ function GovernmentEmpire:new(gc, absorb, dark_empire_available, id)
             heroes_killed_since_last_roll = 0,
             integrate_value = 1
         },
+        ["PROTEUS_TWO"] = {
+            legitimacy = 25,
+            controls_planets = false,
+            percentile_legitimacy = 0,
+            factions_integrated = 0,
+            pending_integration = false,
+            is_integrated = false,
+            next_tier = 1,
+            failed_rolls = 0,
+            max_unlocked = false,
+            joined_groups = {},
+            destruction_unlocks = {},
+            destruction_unlock_descs = {},
+            heroes_killed_since_last_roll = 0,
+            integrate_value = 1
+        },
     }
 
     self.human_is_imperial = false
@@ -241,6 +259,7 @@ function GovernmentEmpire:new(gc, absorb, dark_empire_available, id)
     self.production_finished_event:attach_listener(self.on_production_finished, self)
 
     crossplot:subscribe("INITIALIZE_PROTEUS_LEGITIMACY", self.proteus_init, self)
+    crossplot:subscribe("INITIALIZE_PROTEUS_TWO_LEGITIMACY", self.proteus_two_init, self)
     crossplot:subscribe("INITIALIZE_AI", self.initialize_legitimacy, self)
     crossplot:subscribe("INCREASE_LEGITIMACY", self.adjust_legitimacy, self)
     crossplot:subscribe("DARK_EMPIRE_CHEAT_CHOICE_MADE", self.dark_empire_unlock, self)
@@ -338,6 +357,85 @@ function GovernmentEmpire:proteus_init(leaders)
     self.ProteusInited = true
 end
 
+function GovernmentEmpire:proteus_two_init(leaders)
+    --Logger:trace("entering GovernmentEmpire:proteus_init")
+    if table.getn(leaders) > 0 then
+        if leaders[1] == "NO_LEGITIMACY" then
+            self.imperial_table["PROTEUS_TWO"] = nil
+            return
+        end
+    end
+    self.imperial_table["PROTEUS_TWO"].controls_planets = true
+    self.imperial_table["PROTEUS_TWO"].legitimacy = 25
+    for leaderteam, leader in pairs(leaders) do
+        if type(leaderteam) == "string" then
+            self.leader_table[leaderteam] = leader
+        else
+            table.insert(self.leader_table, leader)
+            if leader == "ULRIC_TAGGE" then
+                UnitUtil.SetLockList("CORPORATE_SECTOR", {"DUMMY_RECRUIT_GROUP_TAGGE_CSA"}, false)
+            end
+        end
+    end
+    if self.inited_two == true then
+        --Remove any group that got spawned in by a Proteus choice, but only if the regular init has already missed them
+         for index=1,table.getn(self.legitimacy_groups) do
+            local groups_to_remove = {}
+
+            for i, entry in pairs(self.legitimacy_groups[index]) do
+                local swap_entry = StoryUtil.Get_Swap_Entry(string.upper(entry.unlocks[1]))
+                local removegroup = false
+
+                for j, hero in pairs(swap_entry[2]) do
+                    local h = Find_All_Objects_Of_Type(hero)
+                    if table.getn(h) > 0 then
+                        local owner = h[1].Get_Owner() --Technically this fails to account for the group being broken up under multiple owners, but that shouldn't come up much
+
+                        if owner == self.PlayerProteus_Two then
+                            removegroup = true
+                        end
+                    end
+                end
+                local units = entry["AlternateUnitLocks"]
+                if units then
+                    for j, hero in pairs(units) do
+                        local h = Find_First_Object(hero)
+                        if TestValid(h) then
+                            local owner = h.Get_Owner()
+
+                            if owner == self.PlayerProteus_Two then
+                                removegroup = true
+                                break
+                            end
+                        end
+                    end
+                end
+                if removegroup then
+                    table.insert(groups_to_remove, 1, i) --insert in reverse order so removing groups doesn't break the iteration
+                    for level,data in pairs(self.legitimacy_documentation) do
+                        for _,docentry in pairs(data) do
+                            if docentry.name == entry.name then
+                                docentry.state = " / [ " .. GlobalValue.Get("PROTEUS_TWO_CURRENT_DISPLAY_NAME") .. " ]"
+                                break
+                            end
+                        end
+                    end
+                end
+            end
+
+            for _, id in pairs(groups_to_remove) do
+                table.remove(self.legitimacy_groups[index], id)
+            end
+            --Debug print all enabled groups after removals
+            --for i, entry in pairs(self.legitimacy_groups[index]) do
+            --    StoryUtil.ShowScreenText(entry.unlocks[1], 15)
+            --end
+         end
+     end
+    self.ProteusInited = true
+    self.inited_two = true
+end
+
 function GovernmentEmpire:initialize_legitimacy()
     --Logger:trace("entering GovernmentEmpire:initialize_legitimacy")
 
@@ -418,6 +516,8 @@ function GovernmentEmpire:initialize_legitimacy()
                     if owner ~= self.PlayerWarlords then
                         if owner == self.PlayerImperial_Proteus then
                             doc_entry.state = " / [ " .. GlobalValue.Get("PROTEUS_CURRENT_DISPLAY_NAME") .. " ]"
+                        elseif owner == self.PlayerProteus_Two then
+                            doc_entry.state = " / [ " .. GlobalValue.Get("PROTEUS_TWO_CURRENT_DISPLAY_NAME") .. " ]"
                         else
                             doc_entry.state = " / [ " .. owner.Get_Name() .. " ]"
                         end
@@ -438,6 +538,8 @@ function GovernmentEmpire:initialize_legitimacy()
                         if owner ~= self.PlayerWarlords then
                             if owner == self.PlayerImperial_Proteus then
                                 doc_entry.state = " / [ " .. GlobalValue.Get("PROTEUS_CURRENT_DISPLAY_NAME") .. " ]"
+                            elseif owner == self.Proteus_Two then
+                                doc_entry.state = " / [ " .. GlobalValue.Get("PROTEUS_TWO_CURRENT_DISPLAY_NAME") .. " ]"
                             else
                                 doc_entry.state = " / [ " .. owner.Get_Name() .. " ]"
                             end
@@ -644,7 +746,7 @@ function GovernmentEmpire:on_planet_owner_changed(planet, new_owner_name, old_ow
             end
 
             if self.imperial_table[new_owner_name] then
-                if self.ProteusInited or new_owner_name ~= "IMPERIAL_PROTEUS" then --Don't let Proteus get rolls for their setup
+                if self.ProteusInited or new_owner_name ~= "IMPERIAL_PROTEUS" or new_owner_name ~= "PROTEUS_TWO" then --Don't let Proteus get rolls for their setup
                     self:adjust_legitimacy(new_owner_name, value)
                 end
             end
@@ -787,7 +889,7 @@ function GovernmentEmpire:dark_empire_unlock(choice_name)
         end
 
         if table.getn(runner_up) == 0 then
-            if self.HumanFactionName == "IMPERIAL_PROTEUS" then
+            if self.HumanFactionName == "IMPERIAL_PROTEUS" or self.HumanFactionName == "PROTEUS_TWO" then
                 self.DarkEmpireUnderstudyName = "EMPIRE"
             else
                 self.DarkEmpireUnderstudyName = "IMPERIAL_PROTEUS"
@@ -845,6 +947,10 @@ function GovernmentEmpire:dark_empire_choice_made(option,ai_faction_name)
     crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", dark_empire_faction_name, "Dark Empire")
     if dark_empire_faction_name == "IMPERIAL_PROTEUS" then
         GlobalValue.Set("PROTEUS_CURRENT_DISPLAY_NAME","Dark Empire")
+    end
+
+    if dark_empire_faction_name == "PROTEUS_TWO" then
+        GlobalValue.Set("PROTEUS_TWO_CURRENT_DISPLAY_NAME","Dark Empire")
     end
 
     if dark_empire_faction_name ~= "EMPIRE" then

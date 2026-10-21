@@ -105,6 +105,7 @@ function GovernmentManager:UpdateDisplayContainer()
         or self.human == Find_Player("GREATER_MALDROOD")
         or self.human == Find_Player("PENTASTAR")
         or self.human == Find_Player("IMPERIAL_PROTEUS")
+        or self.human == Find_Player("PROTEUS_TWO")
         then
             self.EMPIREGOV:UpdateDisplay()
             if GlobalValue.Get("PROTEUS_GROUP_NAME") == "KUAT" then
