@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+
+<LandBombingRunUnits>
+
+	<LandBombingUnit Name="TIE_Bomber_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Bomber.ALO</Land_Model_Name>
+
+		<Scale_Factor>1.2</Scale_Factor>
+
+		<SFXEvent_Ambient_Moving> Unit_TIE_Bomber_Fly_By_Land </SFXEvent_Ambient_Moving>
+
+		<Death_SFXEvent_Start_Die>Unit_TIE_Fighter_Death_SFX</Death_SFXEvent_Start_Die>
+		<Spin_Away_On_Death_SFXEvent_Start_Die>Unit_TIE_Fighter_Spinning_By</Spin_Away_On_Death_SFXEvent_Start_Die>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="TIE_Heavy_Bomber_Bombing_Run">
+		<Variant_Of_Existing_Type>TIE_Bomber_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Heavy_Bomber.ALO</Land_Model_Name>
+		
+		<Scale_Factor>1.2</Scale_Factor>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="TIE_Punisher_Bombing_Run">
+		<Variant_Of_Existing_Type>TIE_Bomber_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Interdictor.ALO</Land_Model_Name>
+		
+		<Scale_Factor>1.2</Scale_Factor>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="Scimitar_Bombing_Run">
+		<Variant_Of_Existing_Type>TIE_Bomber_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Scimitar_Assault_Bomber.ALO</Land_Model_Name>
+		
+		<Scale_Factor>1.2</Scale_Factor>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="TIE_Oppressor_Bombing_Run">
+		<Variant_Of_Existing_Type>TIE_Bomber_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Oppressor.ALO</Land_Model_Name>
+		
+		<Scale_Factor>1.2</Scale_Factor>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="TIE_Terror_Bombing_Run">
+		<Variant_Of_Existing_Type>TIE_Bomber_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_TIE_Terror.ALO</Land_Model_Name>
+		
+		<Scale_Factor>1.2</Scale_Factor>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="Star_Wing_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_XG1_Starwing.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="Missile_Boat_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_Missile_Boat.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="Syca_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_Syca.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="B_Wing_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>bwing.ALO</Land_Model_Name>
+
+		<Projectile_Types> Y_Wing_Bombing_Run_Bomb </Projectile_Types>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="K_Wing_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>RV_KWING.ALO</Land_Model_Name>
+
+		<Projectile_Types> Y_Wing_Bombing_Run_Bomb </Projectile_Types>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="Miytil_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_Miytil_Bomber.ALO</Land_Model_Name>
+	</LandBombingUnit>
+	
+	<LandBombingUnit Name="Janah_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_Janah_Bomber.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="H60_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>BombingRun_Rep_H60.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+	<LandBombingUnit Name="NTB_630_Bombing_Run">
+		<Variant_Of_Existing_Type>Template_Bombing_Run</Variant_Of_Existing_Type>
+		<Land_Model_Name>Bombingrun_Rep_NTB.ALO</Land_Model_Name>
+	</LandBombingUnit>
+
+</LandBombingRunUnits>

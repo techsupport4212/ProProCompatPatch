@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<Particles>
+
+	<Particle Name="Locked_Planet">
+		<Galactic_Model_Name>p_locked_planet.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>300</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Recon_Mission_Particle">
+		<Galactic_Model_Name>p_recon_mission.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1200</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Hunt_Mission_Particle">
+		<Galactic_Model_Name>p_hunt_mission.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1200</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Liberation_Mission_Particle">
+		<Galactic_Model_Name>p_liberation_mission.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1200</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Expanding_Fronts_Mission_Particle">
+		<Galactic_Model_Name>p_expanding_fronts_mission.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1200</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Breaking_Supply_Lines_Particle">
+		<Galactic_Model_Name>p_breaking_supply_lines_mission.alo</Galactic_Model_Name>
+		<Scale_Factor>3.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>false</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1200</Particle_Lifetime_Frames>
+	</Particle>
+
+	<!-- All mods -->
+
+	<Particle Name="Hutt_Allies">
+		<Galactic_Model_Name>p_allied_hutts.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Mando_Allies">
+		<Galactic_Model_Name>p_allied_mando.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Mon_Cal_Allies">
+		<Galactic_Model_Name>p_allied_mon_cal.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Chiss_Allies">
+		<Galactic_Model_Name>p_allied_ca.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Killik_Allies">
+		<Galactic_Model_Name>p_allied_killiks.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Killik_Dark_Allies">
+		<Galactic_Model_Name>p_allied_killiks_dark.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="HC_Allies">
+		<Galactic_Model_Name>p_allied_hc.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Rakata_Allies">
+		<Galactic_Model_Name>p_allies_Rakata.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<!-- RR -->
+	<Particle Name="Old_Republic_Allies">
+		<Galactic_Model_Name>p_allied_rep.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Sith_Empire_Allies">
+		<Galactic_Model_Name>p_allied_Sith.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Sith_Warlords_Allies">
+		<Galactic_Model_Name>p_allied_sith_warlord.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Krath_Allies">
+		<Galactic_Model_Name>p_allied_krath.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Eternal_Empire_Allies">
+		<Galactic_Model_Name>p_allies_Eternal.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Tion_Allies">
+		<Galactic_Model_Name>p_allied_Tion.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Alsakan_Allies">
+		<Galactic_Model_Name>p_allied_Alaskan.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<!-- FotR -->
+	<Particle Name="Republic_Allies">
+		<Galactic_Model_Name>p_allied_rep.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="CIS_Allies">
+		<Galactic_Model_Name>p_allied_cis.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Shadow_Collective_Allies">
+		<Galactic_Model_Name>p_allied_sc.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="FotR_Empire_Allies">
+		<Galactic_Model_Name>p_allied_fotr_empire.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Techno_Union_Allies">
+		<Galactic_Model_Name>p_allied_tu.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<!-- unused; allied non-playable factions use parent faction logo particle -->
+	<!-- <Particle Name="Sector_Forces_Allies"> -->
+		<!-- <Galactic_Model_Name>p_allied_rep_allie.alo</Galactic_Model_Name> -->
+		<!-- <Scale_Factor>1.5</Scale_Factor> -->
+		<!-- <Is_Decoration>Yes</Is_Decoration> -->
+		<!-- <In_Midground>true</In_Midground> -->
+		<!-- <Behavior>PARTICLE</Behavior> -->
+		<!-- <Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames> -->
+	<!-- </Particle> -->
+
+	<!-- <Particle Name="CIS_Corporation_Allies"> -->
+		<!-- <Galactic_Model_Name>p_allied_cis_allie.alo</Galactic_Model_Name> -->
+		<!-- <Scale_Factor>1.5</Scale_Factor> -->
+		<!-- <Is_Decoration>Yes</Is_Decoration> -->
+		<!-- <In_Midground>true</In_Midground> -->
+		<!-- <Behavior>PARTICLE</Behavior> -->
+		<!-- <Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames> -->
+	<!-- </Particle> -->
+
+	<!-- TR -->
+	<Particle Name="Empire_Allies">
+		<Galactic_Model_Name>p_allied_empire.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="EA_Allies">
+		<Galactic_Model_Name>p_allied_ea.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="GM_Allies">
+		<Galactic_Model_Name>p_allied_gm.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="ZE_Allies">
+		<Galactic_Model_Name>p_allied_ze.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="PA_Allies">
+		<Galactic_Model_Name>p_allied_pa.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="NR_Allies">
+		<Galactic_Model_Name>p_allied_nr.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="EotH_Allies">
+		<Galactic_Model_Name>p_allied_eoth.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="CSA_Allies">
+		<Galactic_Model_Name>p_allied_csa.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="DL_Allies">
+		<Galactic_Model_Name>p_allied_dl.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Corellia_Allies">
+		<Galactic_Model_Name>p_allied_cf.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Ssi_Allies">
+		<Galactic_Model_Name>p_allied_ruuvi.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Warlord_Allies">
+		<Galactic_Model_Name>p_allied_warlord.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Kaarenth_Allies">
+		<Galactic_Model_Name>p_allied_kaareth.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Restored_Allies">
+		<Galactic_Model_Name>p_allied_restored.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Shadowspawn_Allies">
+		<Galactic_Model_Name>p_allied_shadowspawn.alo</Galactic_Model_Name>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<!-- Galactic level/all mods -->
+
+	<Particle Name="Display_Unrest_1">
+		<Galactic_Model_Name>p_unrest_one.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>2.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Unrest_2">
+		<Galactic_Model_Name>p_unrest_two.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>2.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Unrest_3">
+		<Galactic_Model_Name>p_unrest_three.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>2.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_1">
+		<Galactic_Model_Name>p_influence_one.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_2">
+		<Galactic_Model_Name>p_influence_two.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_3">
+		<Galactic_Model_Name>p_influence_three.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_4">
+		<Galactic_Model_Name>p_influence_four.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_5">
+		<Galactic_Model_Name>p_influence_five.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_6">
+		<Galactic_Model_Name>p_influence_six.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_7">
+		<Galactic_Model_Name>p_influence_seven.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_8">
+		<Galactic_Model_Name>p_influence_eight.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_9">
+		<Galactic_Model_Name>p_influence_nine.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_10">
+		<Galactic_Model_Name>p_influence_ten.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Influence_11">
+		<Galactic_Model_Name>p_influence_ten.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Smuggler_1">
+		<Galactic_Model_Name>p_smuggler_1.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Smuggler_2">
+		<Galactic_Model_Name>p_smuggler_2.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Smuggler_3">
+		<Galactic_Model_Name>p_smuggler_3.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Smuggler_4">
+		<Galactic_Model_Name>p_smuggler_4.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Display_Smuggler_5">
+		<Galactic_Model_Name>p_smuggler_5.alo</Galactic_Model_Name>
+		<CategoryMask>Structure</CategoryMask>
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>1119</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Galactic_GtS_Attrition_Explosion">
+		<Galactic_Model_Name>p_explosion_small00.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Galactic_Planet_Infection">
+		<Galactic_Model_Name>Infection_Particle_Effect.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>
+	</Particle>
+
+	<Particle Name="Planet_Explosion_Galactic">
+		<Galactic_Model_Name>p_explosion_small00.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>
+	</Particle>
+
+<!-- unused from vanilla EAW/FOC -->
+	<Particle Name="Light_Galactic_Corruption_Particles">
+		<Galactic_Model_Name>p_planet_corrupt.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<!-- Lifetime is manually managed by the planetary corruption system -->
+		<!--<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>-->
+	</Particle>
+
+	<Particle Name="Heavy_Galactic_Corruption_Particles">
+		<Galactic_Model_Name>p_planet_corrupt_large.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midground>true</In_Midground>
+		<!-- Lifetime is manually managed by the planetary corruption system -->
+		<!--<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>-->
+	</Particle>
+
+	<Particle Name="Galactic_Corruption_Line_Particles">
+		<Galactic_Model_Name>p_planet_corrupt2.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<In_Midforeground>true</In_Midforeground>
+		<!-- Lifetime is manually managed by the planetary corruption system -->
+		<!--<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>-->
+	</Particle>
+
+	<Particle Name="IG88_Death_Star_Hack_Explosion">
+		<Galactic_Model_Name>p_explosion_galactic_underworld.alo</Galactic_Model_Name>
+		<Scale_Factor>1.0</Scale_Factor>
+		<Is_Decoration>Yes</Is_Decoration>
+		<Behavior>PARTICLE</Behavior>
+		<Particle_Lifetime_Frames>30</Particle_Lifetime_Frames>
+	</Particle>
+
+</Particles>
