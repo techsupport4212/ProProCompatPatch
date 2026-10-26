@@ -1065,7 +1065,7 @@ return {
 						association = nil,
 						readable_name =  "Assertor Star Dreadnought",
 						text_requirement = "",
-						order = 3,
+						order = 100,
 					},
 					
 					["BELLATOR_STAR_DREADNOUGHT"] = {
@@ -1089,7 +1089,7 @@ return {
 						association = nil,
 						readable_name =  "Mandator II Star Dreadnought",
 						text_requirement = "",
-						order = 5,
+						order = 100,
 					},
 					
 					["COMMUNICATIONS_BATTLECRUISER"] = {
@@ -1125,7 +1125,7 @@ return {
 						association = nil,
 						readable_name =  "Praetor Carrier Battlecruiser",
 						text_requirement = "",
-						order = 8,
+						order = 100,
 					},
 					
 					["SORANNAN_STAR_DESTROYER"] = {
@@ -1144,7 +1144,7 @@ return {
 						locked = false,
 						gc_locked = false,
 						amount = 0,
-						chance = 10,
+						chance = 100,
 						perception_modifier = nil,
 						association = nil,
 						readable_name =  "Allegiance Battlecruiser",
@@ -1663,4 +1663,5 @@ return {
 			},
         },
     },
+
 }

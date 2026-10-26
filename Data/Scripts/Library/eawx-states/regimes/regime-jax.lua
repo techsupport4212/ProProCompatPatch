@@ -25,7 +25,7 @@ return {
             "Zsinj_Empire",
             "Eriadu_Authority",
             "Pentastar",
-            "Imperial_Proteus"
+            "Imperial_Proteus",
             "Proteus_Two"
         }
         for _, faction in pairs(imperial_table) do

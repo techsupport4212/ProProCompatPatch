@@ -149,6 +149,7 @@ function WarlordStart:Show_Warlord_Options()
 	end
 
 function WarlordStart:Choice_Chosen(choice, cosmetic)
+	StoryUtil.ShowScreenText("Checkpoint Alpha", 20, nil, {r = 244, g = 244, b = 0})
 	if choice == "WARLORD_CHOICE_MORE" then
 		local optioncount = table.getn(self.optionlist)
 		local endid = self.optionindex + self.pagesize - 2 --Show up to pagesize-1 ids, inclusive
@@ -170,8 +171,9 @@ function WarlordStart:Choice_Chosen(choice, cosmetic)
 	else
 		self.selected_warlords[self.selection_slot] = string.gsub(choice, "WARLORD_CHOICE_", "")
 		self:Populate_Chosen_Faction(choice, cosmetic)
+		StoryUtil.ShowScreenText("Checkpoint Beta", 20, nil, {r = 244, g = 244, b = 0})
 		StoryUtil.ChangeAIPlayer("PROTEUS_TWO", "WarlordAI")
-		if self.selection_slot == 1 and second_proteus then
+		if self.selection_slot == 1 and self.second_proteus then
 			self:Ask_For_Second_Warlord()
 		else
 			self:Finalize()
@@ -225,7 +227,7 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 	crossplot:publish("FACTION_DISPLAY_NAME_CHANGE", string.upper(self.warlord_name), entry.FriendlyName, entry.PlanetParticle)
 
 	if choice == "KUAT" then
-		crossplot:publish("PROTEUS_MARKET")
+		GlobalValue.Set("PROTEUS_SELECTED_KUAT", 1)
 	end
 	
     local initial_proteus_lock_units = require("eawx-plugins/warlord-start/ProteusLocks")
@@ -308,6 +310,9 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 end
 
 function WarlordStart:Finalize()
+	if GlobalValue.Get("PROTEUS_SELECTED_KUAT") then
+		crossplot:publish("PROTEUS_MARKET")
+	end
 	crossplot:publish("INITIALIZE_AI", "empty")
 	self.warlordlist = nil
 	self.human_player = nil
