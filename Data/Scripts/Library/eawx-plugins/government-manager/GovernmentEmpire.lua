@@ -432,7 +432,6 @@ function GovernmentEmpire:proteus_two_init(leaders)
             --end
          end
      end
-    self.ProteusInited = true
     self.inited_two = true
 end
 
@@ -746,7 +745,10 @@ function GovernmentEmpire:on_planet_owner_changed(planet, new_owner_name, old_ow
             end
 
             if self.imperial_table[new_owner_name] then
-                if self.ProteusInited or new_owner_name ~= "IMPERIAL_PROTEUS" or new_owner_name ~= "PROTEUS_TWO" then --Don't let Proteus get rolls for their setup
+                if (new_owner_name ~= "IMPERIAL_PROTEUS" and new_owner_name ~= "PROTEUS_TWO")
+                    or (new_owner_name == "IMPERIAL_PROTEUS" and self.ProteusInited)
+                    or (new_owner_name == "PROTEUS_TWO" and self.ProteusTwoInited) then
+
                     self:adjust_legitimacy(new_owner_name, value)
                 end
             end

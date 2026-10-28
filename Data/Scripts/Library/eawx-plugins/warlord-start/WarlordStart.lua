@@ -296,16 +296,14 @@ function WarlordStart:Populate_Chosen_Faction(choice, cosmetic)
 		end
 	end
 
-	crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable, self.warlord_name)
 	if cosmetic ~= nil then
 		return
 	end
 
 	if self.selection_slot == 1 then
-		return
+		crossplot:publish("INITIALIZE_PROTEUS_LEGITIMACY", entry.LeaderTable, self.warlord_name)
 	else
 		crossplot:publish("INITIALIZE_PROTEUS_TWO_LEGITIMACY", entry.LeaderTable, self.warlord_name)
-		return
 	end
 end
 
